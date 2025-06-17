@@ -1,32 +1,32 @@
-# Comparison of syntax extensions in Markdown flavors 
+# Comparison of syntax extensions in Markdown flavors
 
-| Flavor            |    Superscript    | Subscript | Deletion*<br>Strikethrough | Insertion*  | Highlight*  |  Footnote  |  Task list   | Table |      Abbr       | Deflist | Smart typo |    TOC    |                Math                 |              Math Block               | Mermaid |
-| ----------------- | :---------------: | :-------: | :------------------------: | :---------: | :---------: | :--------: | :----------: | :---: | :-------------: | :-----: | :--------: | :-------: | :---------------------------------: | :-----------------------------------: | :-----: |
-| GFM               |                   |           |         `~~...~~`          |             |             |            |  `- [] ...`  |   +   |                 |         |            |           |                                     |                                       |         |
-| **ExtraMark**     |      `^...^`      |  `~...~`  |        `{--...--}`         | `{++...++}` | `{==...==}` | `[^...]`** | `- [] ...`** |   +   | `*[...]: ...`** |  `: `   |            |           |                                     |                                       |         |
-| MultiMarkdown     | `^...^`<br>`^...` |  `~...~`  |        `{--...--}`         | `{++...++}` | `{==...==}` |  `[^...]`  |              |   +   |  `*[...]: ...`  |  `: `   |     +      | `{{TOC}}` |             `\\(...\\)`             |              `\\[...\\]`              |         |
-| Markdown Extra    |                   |           |                            |             |             |   `[^1]`   |              |   +   |  `*[...]: ...`  |  `: `   |            |           |                                     |                                       |         |
-| Pandoc            |      `^...^`      |  `~...~`  |         `~~...~~`          |             |             |  `[^...]`  |              |   +   |  `*[...]: ...`  |  `: `   |            |           |               `$...$`               |                                       |         |
-| Kramdown          |                   |           |                            |             |             |   `[^1]`   |              |   +   |  `*[...]: ...`  |  `: `   |            |           |                                     |                                       |         |
-| Markua            |      `^...^`      |  `~...~`  |  `~~...~~`<br>`{--...--}`  | `{++...++}` | `{==...==}` |  `[^...]`  |              |   +   |                 |  `: `   |            |           |            `` `...`$ ``             |                                       |         |
-| Maruku            |                   |           |                            |             |             |   `[^1]`   |              |   +   |  `*[...]: ...`  |  `: `   |            |           |               `$...$`               |                 `$$`                  |         |
-| Markdown2         |      `^...^`      |           |                            |             |             |            |              |   +   |                 |         |            |           |                                     |                                       |         |
-| Remarkable        |      `^...^`      |  `~...~`  |         `~~...~~`          |  `++...++`  |  `==...==`  |            |              |       |                 |         |     +      |           |                                     |                                       |         |
-| Showdown          |                   |           |         `~~...~~`          |             |             |   `[^1]`   |  `- [] ...`  |   +   |                 |         |            |  `[toc]`  | `$ ... $`<br>`~...~`<br>`\\(...\\)` | `\\[...\\]`<br>```` ```asciimath ```` |         |
-| Ghost             |      `^...^`      |  `~...~`  |         `~~...~~`          |             |  `==...==`  |            |              |       |                 |         |            |           |                                     |                                       |         |
-| GitLab            |                   |           |  `~~...~~`<br>`{- ... -}`  | `{+ ... +}` |             |   `[^1]`   |  `- [] ...`  |   +   |                 |         |            |           |               `$...$`               |           ```` ```math ````           |    +    |
-| Haroopad          |                   |           |                            |             |  `==...==`  |            |  `- [] ...`  |       |                 |         |            |  `[TOC]`  |                                     |                                       |    +    |
-| iA Writer         |                   |           |                            |             |             |   `[^1]`   |  `- [] ...`  |   +   |                 |         |            | `{{TOC}}` |       `$...$`<br>`\\(...\\)`        |       `$$...$$`<br>`\\[...\\]`        |         |
-| Redcarpet         |     `^(...)`      |           |         `~~...~~`          |             |  `==...==`  |   `[^1]`   |              |   +   |                 |         |            |           |                                     |                                       |         |
-| ScholarlyMarkdown |                   |           |                            |             |             |            |              |       |                 |         |            |           |     `$...$`<br>``` ``....`` ```     |           ```` ```math ````           |         |
-| Taiga             |                   |           |                            |             |             |            |              |   +   |                 |         |            |           |                                     |                                       |         |
-| Trello            |                   |           |         `~~...~~`          |             |             |            |              |       |                 |         |            |           |                                     |                                       |         |
-| s9e\TextFormatter | `^...^`<br>`^...` |  `~...~`  |         `~~...~~`          |             |             |            |              |       |                 |         |            |           |                                     |                                       |         |
+
+| Flavor            |    Superscript    | Subscript | Deletion*<br>Strikethrough | Insertion* | Highlight* |  Footnote  |  Task list  | Table |      Abbr      | Deflist | Smart typo |    TOC    |                Math                |              Math Block              | Mermaid | Admonitions |
+| ------------------- | :-----------------: | :---------: | :--------------------------: | :-----------: | :-----------: | :----------: | :------------: | :-----: | :---------------: | :-------: | :----------: | :---------: | :-----------------------------------: | :------------------------------------: | :-------: | ------------- |
+| **GFM**           |                   |           |         `~~...~~`         |             |             |           |  `- [] ...`  |   +   |                 |         |           |           |               `$...$`               |              `$$...$$`              |    +    | +           |
+| **Docusaurus**    |                   |           |                           |             |             |           |             |       |                 |         |           |           |               `$...$`               |              `$$...$$`              |    +    | +           |
+| **ExtraMark**     |      `^...^`      |  `~...~`  |        `{--...--}`        | `{++...++}` | `{==...==}` | `[^...]`** | `- [] ...`** |   +   | `*[...]: ...`** |  `: `  |           |           |                                     |                                     |         |             |
+| MultiMarkdown     | `^...^`<br>`^...` |  `~...~`  |        `{--...--}`        | `{++...++}` | `{==...==}` |  `[^...]`  |             |   +   |  `*[...]: ...`  |  `: `  |     +     | `{{TOC}}` |             `\\(...\\)`             |             `\\[...\\]`             |         |             |
+| Markdown Extra    |                   |           |                           |             |             |   `[^1]`   |             |   +   |  `*[...]: ...`  |  `: `  |           |           |                                     |                                     |         |             |
+| Pandoc            |      `^...^`      |  `~...~`  |         `~~...~~`         |             |             |  `[^...]`  |             |   +   |  `*[...]: ...`  |  `: `  |           |           |               `$...$`               |                                     |         |             |
+| Kramdown          |                   |           |                           |             |             |   `[^1]`   |             |   +   |  `*[...]: ...`  |  `: `  |           |           |                                     |                                     |         |             |
+| Markua            |      `^...^`      |  `~...~`  |  `~~...~~`<br>`{--...--}`  | `{++...++}` | `{==...==}` |  `[^...]`  |             |   +   |                 |  `: `  |           |           |             `` `...`$``             |                                     |         |             |
+| Maruku            |                   |           |                           |             |             |   `[^1]`   |             |   +   |  `*[...]: ...`  |  `: `  |           |           |               `$...$`               |                 `$$`                 |         |             |
+| Markdown2         |      `^...^`      |           |                           |             |             |           |             |   +   |                 |         |           |           |                                     |                                     |         |             |
+| Remarkable        |      `^...^`      |  `~...~`  |         `~~...~~`         |  `++...++`  |  `==...==`  |           |             |       |                 |         |     +     |           |                                     |                                     |         |             |
+| Showdown          |                   |           |         `~~...~~`         |             |             |   `[^1]`   |  `- [] ...`  |   +   |                 |         |           |  `[toc]`  | `$ ... $`<br>`~...~`<br>`\\(...\\)` | `\\[...\\]`<br>```` ```asciimath```` |         |             |
+| Ghost             |      `^...^`      |  `~...~`  |         `~~...~~`         |             |  `==...==`  |           |             |       |                 |         |           |           |                                     |                                     |         |             |
+| GitLab            |                   |           |  `~~...~~`<br>`{- ... -}`  | `{+ ... +}` |             |   `[^1]`   |  `- [] ...`  |   +   |                 |         |           |           |               `$...$`               |           ```` ```math````           |    +    |             |
+| Haroopad          |                   |           |                           |             |  `==...==`  |           |  `- [] ...`  |       |                 |         |           |  `[TOC]`  |                                     |                                     |    +    |             |
+| iA Writer         |                   |           |                           |             |             |   `[^1]`   |  `- [] ...`  |   +   |                 |         |           | `{{TOC}}` |       `$...$`<br>`\\(...\\)`       |       `$$...$$`<br>`\\[...\\]`       |         |             |
+| Redcarpet         |     `^(...)`     |           |         `~~...~~`         |             |  `==...==`  |   `[^1]`   |             |   +   |                 |         |           |           |                                     |                                     |         |             |
+| ScholarlyMarkdown |                   |           |                           |             |             |           |             |       |                 |         |           |           |     `$...$`<br>``` ``....`` ```     |           ```` ```math````           |         |             |
+| Taiga             |                   |           |                           |             |             |           |             |   +   |                 |         |           |           |                                     |                                     |         |             |
+| Trello            |                   |           |         `~~...~~`         |             |             |           |             |       |                 |         |           |           |                                     |                                     |         |             |
+| s9e\TextFormatter | `^...^`<br>`^...` |  `~...~`  |         `~~...~~`         |             |             |           |             |       |                 |         |           |           |                                     |                                     |         |             |
 
 `[*]`: Some dialects use the [CriticMarkup] syntax for these features
 `[**]`: Planned in the future
-
-[CriticMarkup]: http://criticmarkup.com
 
 ## Syntax extensions
 
@@ -48,7 +48,7 @@ Tap water mainly consists of H~2~O but it has many other components as well.
 
 ### Strikethrough
 
-The stikethrough syntax extension was popularized by GFM and has two syntaxes across implementations. Some variants use the `~~...~~` syntax while dialects use the syntax from CriticMarkup. Some use both. 
+The stikethrough syntax extension was popularized by GFM and has two syntaxes across implementations. Some variants use the `~~...~~` syntax while dialects use the syntax from CriticMarkup. Some use both.
 Using CriticMarkup seems the right choice here as it is a somewhat standarized specification for edits in text. *Adding support to the GFM style strikethroughs could increase cross compatibility with many dialects.*
 
 ```md
@@ -80,6 +80,7 @@ This page is written with Markdown[^1].
 
 [^1]: Or at least some dialect of it.
 ```
+
 ### Task lists
 
 Any implementation that uses task lists uses the snytax of GFM.
@@ -137,3 +138,5 @@ There are some hard arguments for and against both methods on the CommonMark for
 ### Mermaid
 
 Some Markdown dialects allow the creation of diagrams using Mermaid syntax. This seems to contradict the original idea of Markdown documents as these generate some images that should be separate content. For the time being I don't see any good reasons to include Mermaid.
+
+[CriticMarkup]: http://criticmarkup.com
