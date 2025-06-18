@@ -29,7 +29,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */ ({
         docs: {
           routeBasePath: '/',
-          editUrl: 'https://github.com/BenjaminHoegh/markdown-syntax-matrix/tree/main/',
+          editUrl: 'https://github.com/BenjaminHoegh/markdown-flavor-comparison/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -37,32 +37,21 @@ const config = {
       }),
     ],
   ],
-
-  markdown: {
-    mermaid: true,
-  },
-  themes: ['@docusaurus/theme-mermaid'],
+  
+  themes: ['@docusaurus/theme-classic'],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */ ({
-      mermaid: {
-        theme: {light: 'neutral', dark: 'dark'},
-      },
       image: 'img/parsedownExtended.png',
       navbar: {
-        title: 'Markdown Syntax Matrix',
+        title: 'markdown-flavor-comparison',
         items: [
           {
-            href: 'https://github.com/example/markdown-flavor-comparison',
+            href: 'https://github.com/BenjaminHoegh/markdown-flavor-comparison',
             label: 'GitHub',
             position: 'right',
           },
         ],
-      },
-      prism: {
-        additionalLanguages: ['markdown', 'html'],
-        theme: prismThemes.github,
-        darkTheme: prismThemes.vsDark,
       },
     }),
 };
