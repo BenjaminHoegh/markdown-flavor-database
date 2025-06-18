@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Tables",
+    "category": "Layout",
+    "description": "Pipe-separated Markdown tables",
+    "flavors": {
+      "Standard Markdown": {
+        "supported": false
+      },
+      "GitHub Flavored Markdown (GFM)": {
+        "supported": true,
+        "syntax": "| Col1 | Col2 |\n|------|------|\n| A1   | A2   |"
+      },
+      "Pandoc": {
+        "supported": true,
+        "syntax": "| Col1 | Col2 |\n|------|------|\n| A1   | A2   |",
+        "notes": "Also supports multiline and grid tables"
+      }
+    }
+  },
+  {
+    "name": "Footnotes",
+    "category": "References",
+    "description": "Add references with footnotes",
+    "flavors": {
+      "Standard Markdown": {
+        "supported": false
+      },
+      "GitHub Flavored Markdown (GFM)": {
+        "supported": false
+      },
+      "Pandoc": {
+        "supported": true,
+        "syntax": "Here is a footnote.[^1]\n\n[^1]: Footnote text"
+      }
+    }
+  },
+  {
+    "name": "Task Lists",
+    "category": "Lists",
+    "description": "Checkbox style task lists",
+    "flavors": {
+      "Standard Markdown": {
+        "supported": false
+      },
+      "GitHub Flavored Markdown (GFM)": {
+        "supported": true,
+        "syntax": "- [ ] Incomplete\n- [x] Complete"
+      },
+      "Pandoc": {
+        "supported": true,
+        "syntax": "- [ ] Incomplete\n- [x] Complete"
+      }
+    }
+  }
+]
