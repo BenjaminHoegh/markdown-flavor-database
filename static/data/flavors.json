@@ -1,0 +1,50 @@
+[
+  {
+    "key": "standard-markdown",
+    "title": "Standard Markdown"
+  },
+  {
+    "key": "markdown-extra",
+    "title": "Markdown Extra"
+  },
+  {
+    "key": "github-flavored-markdown-gfm",
+    "title": "GitHub Flavored Markdown (GFM)"
+  },
+  {
+    "key": "pandoc-markdown",
+    "title": "Pandoc Markdown"
+  },
+  {
+    "key": "r-markdown",
+    "title": "R Markdown"
+  },
+  {
+    "key": "obsidian-markdown",
+    "title": "Obsidian Markdown"
+  },
+  {
+    "key": "myst-markdown",
+    "title": "MyST Markdown"
+  },
+  {
+    "key": "leanpub-markua",
+    "title": "Leanpub Markua"
+  },
+  {
+    "key": "zettlr-pandoc",
+    "title": "Zettlr (Pandoc)"
+  },
+  {
+    "key": "jupyter-book-myst",
+    "title": "Jupyter Book (MyST)"
+  },
+  {
+    "key": "hugo-goldmark",
+    "title": "Hugo (Goldmark)"
+  },
+  {
+    "key": "docusaurus-mdx",
+    "title": "Docusaurus MDX"
+  }
+]
