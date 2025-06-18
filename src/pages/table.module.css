@@ -1,0 +1,33 @@
+.container {
+  overflow-x: auto;
+  padding: 1rem;
+}
+
+.matrix {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.matrix th,
+.matrix td {
+  border: 1px solid var(--ifm-table-border-color, #ccc);
+  padding: 0.5rem;
+  vertical-align: top;
+}
+
+.matrix th {
+  position: sticky;
+  top: 0;
+  background-color: var(--ifm-table-background, #fff);
+  z-index: 1;
+}
+
+pre {
+  white-space: pre-wrap;
+  margin: 0;
+}
+
+.description {
+  font-size: 0.85rem;
+  color: var(--ifm-color-gray-600);
+}
