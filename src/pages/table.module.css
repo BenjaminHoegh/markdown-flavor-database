@@ -1,0 +1,26 @@
+.tableWrapper {
+  overflow-x: auto;
+}
+
+.matrix {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.matrix th,
+.matrix td {
+  border: 1px solid var(--ifm-table-border-color);
+  padding: 0.5rem;
+  vertical-align: top;
+}
+
+.matrix thead th {
+  position: sticky;
+  top: 0;
+  background-color: var(--ifm-table-background);
+  z-index: 1;
+}
+
+.matrix pre {
+  white-space: pre-wrap;
+}
