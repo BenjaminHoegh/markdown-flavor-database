@@ -28,12 +28,8 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */ ({
         docs: {
-          includeCurrentVersion: false,
           routeBasePath: '/',
-          sidebarPath: require.resolve('./sidebars.ts'),
-          remarkPlugins: [remarkMath],
-          rehypePlugins: [rehypeKatex],
-          editUrl: 'https://github.com/example/markdown-syntax-matrix/tree/main/',
+          editUrl: 'https://github.com/BenjaminHoegh/markdown-syntax-matrix/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
