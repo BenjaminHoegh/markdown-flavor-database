@@ -8,10 +8,10 @@ const config = {
   favicon: 'img/favicon.ico',
 
   url: 'https://example.github.io',
-  baseUrl: '/markdown-syntax-matrix/',
+  baseUrl: '/markdown-flavor-comparison/',
 
   organizationName: 'example',
-  projectName: 'markdown-syntax-matrix',
+  projectName: 'markdown-flavor-comparison',
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -57,14 +57,14 @@ const config = {
         title: 'Markdown Syntax Matrix',
         items: [
           {
-            href: 'https://github.com/example/markdown-syntax-matrix',
+            href: 'https://github.com/example/markdown-flavor-comparison',
             label: 'GitHub',
             position: 'right',
           },
         ],
       },
       prism: {
-        additionalLanguages: ['php', 'bash'],
+        additionalLanguages: ['markdown', 'html'],
         theme: prismThemes.github,
         darkTheme: prismThemes.vsDark,
       },
