@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Tables",
+    "category": "Layout",
+    "description": "Pipe-separated Markdown tables",
+    "flavors": {
+      "Standard Markdown": {
+        "supported": false
+      },
+      "GitHub Flavored Markdown (GFM)": {
+        "supported": true,
+        "syntax": "| Col1 | Col2 |\n|------|------|\n| A1   | A2   |"
+      },
+      "Pandoc": {
+        "supported": true,
+        "syntax": "| Col1 | Col2 |\n|------|------|\n| A1   | A2   |",
+        "notes": "Also supports multiline and grid tables"
+      }
+    }
+  },
+  {
+    "name": "Footnotes",
+    "category": "References",
+    "description": "Link-style footnotes for extra information",
+    "flavors": {
+      "Standard Markdown": {
+        "supported": false
+      },
+      "GitHub Flavored Markdown (GFM)": {
+        "supported": true,
+        "syntax": "Here is a footnote.[^1]\n\n[^1]: Footnote text"
+      },
+      "Pandoc": {
+        "supported": true,
+        "syntax": "Here is a footnote.[^1]\n\n[^1]: Footnote text"
+      }
+    }
+  }
+]
