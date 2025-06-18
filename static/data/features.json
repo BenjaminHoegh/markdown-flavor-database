@@ -1,0 +1,218 @@
+[
+  {
+    "key": "atx-heading",
+    "title": "ATX Heading",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "setext-heading",
+    "title": "Setext Heading",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "paragraph",
+    "title": "Paragraph",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "blockquote",
+    "title": "Blockquote",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "unordered-list",
+    "title": "Unordered List",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "ordered-list",
+    "title": "Ordered List",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "horizontal-rule",
+    "title": "Horizontal Rule",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "indented-code-block",
+    "title": "Indented Code Block",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "bold",
+    "title": "Bold",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "italic",
+    "title": "Italic",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "bold-italic",
+    "title": "Bold+Italic",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "inline-code",
+    "title": "Inline Code",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "inline-link",
+    "title": "Inline Link",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "reference-link",
+    "title": "Reference Link",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "image",
+    "title": "Image",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "autolink",
+    "title": "Autolink",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "raw-html-inline",
+    "title": "Raw HTML Inline",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "tables",
+    "title": "Tables",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "footnotes",
+    "title": "Footnotes",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "definition-lists",
+    "title": "Definition Lists",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "task-lists",
+    "title": "Task Lists",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "abbreviations",
+    "title": "Abbreviations",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "fenced-code-block",
+    "title": "Fenced Code Block",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "syntax-highlighting",
+    "title": "Syntax Highlighting",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "code-block-title",
+    "title": "Code Block Title",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "mermaid-diagram",
+    "title": "Mermaid Diagram",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "plantuml-diagram",
+    "title": "PlantUML Diagram",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "inline-math",
+    "title": "Inline Math",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "display-math",
+    "title": "Display Math",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "yaml-front-matter",
+    "title": "YAML Front Matter",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "citations",
+    "title": "Citations",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "cross-references",
+    "title": "Cross References",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "automatic-toc",
+    "title": "Automatic TOC",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "admonition",
+    "title": "Admonition",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "collapsible-section",
+    "title": "Collapsible Section",
+    "category": "Syntax",
+    "description": ""
+  },
+  {
+    "key": "transclusion",
+    "title": "Transclusion",
+    "category": "Syntax",
+    "description": ""
+  }
+]

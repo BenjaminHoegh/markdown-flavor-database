@@ -1,1224 +1,1152 @@
 [
   {
-    "name": "ATX Heading",
-    "category": "Syntax",
-    "description": "",
+    "feature": "atx-heading",
     "flavors": {
-      "Standard Markdown": {
+      "standard-markdown": {
         "syntax": "# Heading 1"
       },
-      "Markdown Extra": {
+      "markdown-extra": {
         "syntax": "# Heading 1"
       },
-      "GitHub Flavored Markdown (GFM)": {
+      "github-flavored-markdown-gfm": {
         "syntax": "# Heading 1"
       },
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "# Heading 1"
       },
-      "R Markdown": {
+      "r-markdown": {
         "syntax": "# Heading 1"
       },
-      "Obsidian Markdown": {
+      "obsidian-markdown": {
         "syntax": "# Heading 1"
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "# Heading 1"
       },
-      "Leanpub Markua": {
+      "leanpub-markua": {
         "syntax": "# Heading 1"
       },
-      "Zettlr (Pandoc)": {
+      "zettlr-pandoc": {
         "syntax": "# Heading 1"
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "# Heading 1"
       },
-      "Hugo (Goldmark)": {
+      "hugo-goldmark": {
         "syntax": "# Heading 1"
       },
-      "Docusaurus MDX": {
+      "docusaurus-mdx": {
         "syntax": "# Heading 1"
       }
     }
   },
   {
-    "name": "Setext Heading",
-    "category": "Syntax",
-    "description": "",
+    "feature": "setext-heading",
     "flavors": {
-      "Standard Markdown": {
+      "standard-markdown": {
         "syntax": "Heading 1\n========="
       },
-      "Markdown Extra": {
+      "markdown-extra": {
         "syntax": "Heading 1\n========="
       },
-      "GitHub Flavored Markdown (GFM)": {
+      "github-flavored-markdown-gfm": {
         "syntax": "Heading 1\n========="
       },
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "Heading 1\n========="
       },
-      "R Markdown": {
+      "r-markdown": {
         "syntax": "Heading 1\n========="
       },
-      "Obsidian Markdown": {
+      "obsidian-markdown": {
         "syntax": "Heading 1\n========="
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "Heading 1\n========="
       },
-      "Leanpub Markua": {
+      "leanpub-markua": {
         "syntax": "Heading 1\n========="
       },
-      "Zettlr (Pandoc)": {
+      "zettlr-pandoc": {
         "syntax": "Heading 1\n========="
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "Heading 1\n========="
       },
-      "Hugo (Goldmark)": {
+      "hugo-goldmark": {
         "syntax": "Heading 1\n========="
       },
-      "Docusaurus MDX": {
+      "docusaurus-mdx": {
         "syntax": "Heading 1\n========="
       }
     }
   },
   {
-    "name": "Paragraph",
-    "category": "Syntax",
-    "description": "",
+    "feature": "paragraph",
     "flavors": {
-      "Standard Markdown": {
+      "standard-markdown": {
         "syntax": "This is a paragraph."
       },
-      "Markdown Extra": {
+      "markdown-extra": {
         "syntax": "This is a paragraph."
       },
-      "GitHub Flavored Markdown (GFM)": {
+      "github-flavored-markdown-gfm": {
         "syntax": "This is a paragraph."
       },
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "This is a paragraph."
       },
-      "R Markdown": {
+      "r-markdown": {
         "syntax": "This is a paragraph."
       },
-      "Obsidian Markdown": {
+      "obsidian-markdown": {
         "syntax": "This is a paragraph."
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "This is a paragraph."
       },
-      "Leanpub Markua": {
+      "leanpub-markua": {
         "syntax": "This is a paragraph."
       },
-      "Zettlr (Pandoc)": {
+      "zettlr-pandoc": {
         "syntax": "This is a paragraph."
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "This is a paragraph."
       },
-      "Hugo (Goldmark)": {
+      "hugo-goldmark": {
         "syntax": "This is a paragraph."
       },
-      "Docusaurus MDX": {
+      "docusaurus-mdx": {
         "syntax": "This is a paragraph."
       }
     }
   },
   {
-    "name": "Blockquote",
-    "category": "Syntax",
-    "description": "",
+    "feature": "blockquote",
     "flavors": {
-      "Standard Markdown": {
+      "standard-markdown": {
         "syntax": "> Blockquote"
       },
-      "Markdown Extra": {
+      "markdown-extra": {
         "syntax": "> Blockquote"
       },
-      "GitHub Flavored Markdown (GFM)": {
+      "github-flavored-markdown-gfm": {
         "syntax": "> Blockquote"
       },
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "> Blockquote"
       },
-      "R Markdown": {
+      "r-markdown": {
         "syntax": "> Blockquote"
       },
-      "Obsidian Markdown": {
+      "obsidian-markdown": {
         "syntax": "> Blockquote"
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "> Blockquote"
       },
-      "Leanpub Markua": {
+      "leanpub-markua": {
         "syntax": "> Blockquote"
       },
-      "Zettlr (Pandoc)": {
+      "zettlr-pandoc": {
         "syntax": "> Blockquote"
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "> Blockquote"
       },
-      "Hugo (Goldmark)": {
+      "hugo-goldmark": {
         "syntax": "> Blockquote"
       },
-      "Docusaurus MDX": {
+      "docusaurus-mdx": {
         "syntax": "> Blockquote"
       }
     }
   },
   {
-    "name": "Unordered List",
-    "category": "Syntax",
-    "description": "",
+    "feature": "unordered-list",
     "flavors": {
-      "Standard Markdown": {
+      "standard-markdown": {
         "syntax": "- Item"
       },
-      "Markdown Extra": {
+      "markdown-extra": {
         "syntax": "- Item"
       },
-      "GitHub Flavored Markdown (GFM)": {
+      "github-flavored-markdown-gfm": {
         "syntax": "- Item"
       },
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "- Item"
       },
-      "R Markdown": {
+      "r-markdown": {
         "syntax": "- Item"
       },
-      "Obsidian Markdown": {
+      "obsidian-markdown": {
         "syntax": "- Item"
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "- Item"
       },
-      "Leanpub Markua": {
+      "leanpub-markua": {
         "syntax": "- Item"
       },
-      "Zettlr (Pandoc)": {
+      "zettlr-pandoc": {
         "syntax": "- Item"
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "- Item"
       },
-      "Hugo (Goldmark)": {
+      "hugo-goldmark": {
         "syntax": "- Item"
       },
-      "Docusaurus MDX": {
+      "docusaurus-mdx": {
         "syntax": "- Item"
       }
     }
   },
   {
-    "name": "Ordered List",
-    "category": "Syntax",
-    "description": "",
+    "feature": "ordered-list",
     "flavors": {
-      "Standard Markdown": {
+      "standard-markdown": {
         "syntax": "1. Item"
       },
-      "Markdown Extra": {
+      "markdown-extra": {
         "syntax": "1. Item"
       },
-      "GitHub Flavored Markdown (GFM)": {
+      "github-flavored-markdown-gfm": {
         "syntax": "1. Item"
       },
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "1. Item"
       },
-      "R Markdown": {
+      "r-markdown": {
         "syntax": "1. Item"
       },
-      "Obsidian Markdown": {
+      "obsidian-markdown": {
         "syntax": "1. Item"
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "1. Item"
       },
-      "Leanpub Markua": {
+      "leanpub-markua": {
         "syntax": "1. Item"
       },
-      "Zettlr (Pandoc)": {
+      "zettlr-pandoc": {
         "syntax": "1. Item"
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "1. Item"
       },
-      "Hugo (Goldmark)": {
+      "hugo-goldmark": {
         "syntax": "1. Item"
       },
-      "Docusaurus MDX": {
+      "docusaurus-mdx": {
         "syntax": "1. Item"
       }
     }
   },
   {
-    "name": "Horizontal Rule",
-    "category": "Syntax",
-    "description": "",
+    "feature": "horizontal-rule",
     "flavors": {
-      "Standard Markdown": {
+      "standard-markdown": {
         "syntax": "---"
       },
-      "Markdown Extra": {
+      "markdown-extra": {
         "syntax": "---"
       },
-      "GitHub Flavored Markdown (GFM)": {
+      "github-flavored-markdown-gfm": {
         "syntax": "---"
       },
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "---"
       },
-      "R Markdown": {
+      "r-markdown": {
         "syntax": "---"
       },
-      "Obsidian Markdown": {
+      "obsidian-markdown": {
         "syntax": "---"
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "---"
       },
-      "Leanpub Markua": {
+      "leanpub-markua": {
         "syntax": "---"
       },
-      "Zettlr (Pandoc)": {
+      "zettlr-pandoc": {
         "syntax": "---"
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "---"
       },
-      "Hugo (Goldmark)": {
+      "hugo-goldmark": {
         "syntax": "---"
       },
-      "Docusaurus MDX": {
+      "docusaurus-mdx": {
         "syntax": "---"
       }
     }
   },
   {
-    "name": "Indented Code Block",
-    "category": "Syntax",
-    "description": "",
+    "feature": "indented-code-block",
     "flavors": {
-      "Standard Markdown": {
+      "standard-markdown": {
         "syntax": "    code"
       },
-      "Markdown Extra": {
+      "markdown-extra": {
         "syntax": "    code"
       },
-      "GitHub Flavored Markdown (GFM)": {
+      "github-flavored-markdown-gfm": {
         "syntax": "    code"
       },
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "    code"
       },
-      "R Markdown": {
+      "r-markdown": {
         "syntax": "    code"
       },
-      "Obsidian Markdown": {
+      "obsidian-markdown": {
         "syntax": "    code"
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "    code"
       },
-      "Leanpub Markua": {
+      "leanpub-markua": {
         "syntax": "    code"
       },
-      "Zettlr (Pandoc)": {
+      "zettlr-pandoc": {
         "syntax": "    code"
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "    code"
       },
-      "Hugo (Goldmark)": {
+      "hugo-goldmark": {
         "syntax": "    code"
       },
-      "Docusaurus MDX": {
+      "docusaurus-mdx": {
         "syntax": "    code"
       }
     }
   },
   {
-    "name": "Bold",
-    "category": "Syntax",
-    "description": "",
+    "feature": "bold",
     "flavors": {
-      "Standard Markdown": {
+      "standard-markdown": {
         "syntax": "**bold**"
       },
-      "Markdown Extra": {
+      "markdown-extra": {
         "syntax": "**bold**"
       },
-      "GitHub Flavored Markdown (GFM)": {
+      "github-flavored-markdown-gfm": {
         "syntax": "**bold**"
       },
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "**bold**"
       },
-      "R Markdown": {
+      "r-markdown": {
         "syntax": "**bold**"
       },
-      "Obsidian Markdown": {
+      "obsidian-markdown": {
         "syntax": "**bold**"
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "**bold**"
       },
-      "Leanpub Markua": {
+      "leanpub-markua": {
         "syntax": "**bold**"
       },
-      "Zettlr (Pandoc)": {
+      "zettlr-pandoc": {
         "syntax": "**bold**"
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "**bold**"
       },
-      "Hugo (Goldmark)": {
+      "hugo-goldmark": {
         "syntax": "**bold**"
       },
-      "Docusaurus MDX": {
+      "docusaurus-mdx": {
         "syntax": "**bold**"
       }
     }
   },
   {
-    "name": "Italic",
-    "category": "Syntax",
-    "description": "",
+    "feature": "italic",
     "flavors": {
-      "Standard Markdown": {
+      "standard-markdown": {
         "syntax": "*italic*"
       },
-      "Markdown Extra": {
+      "markdown-extra": {
         "syntax": "*italic*"
       },
-      "GitHub Flavored Markdown (GFM)": {
+      "github-flavored-markdown-gfm": {
         "syntax": "*italic*"
       },
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "*italic*"
       },
-      "R Markdown": {
+      "r-markdown": {
         "syntax": "*italic*"
       },
-      "Obsidian Markdown": {
+      "obsidian-markdown": {
         "syntax": "*italic*"
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "*italic*"
       },
-      "Leanpub Markua": {
+      "leanpub-markua": {
         "syntax": "*italic*"
       },
-      "Zettlr (Pandoc)": {
+      "zettlr-pandoc": {
         "syntax": "*italic*"
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "*italic*"
       },
-      "Hugo (Goldmark)": {
+      "hugo-goldmark": {
         "syntax": "*italic*"
       },
-      "Docusaurus MDX": {
+      "docusaurus-mdx": {
         "syntax": "*italic*"
       }
     }
   },
   {
-    "name": "Bold+Italic",
-    "category": "Syntax",
-    "description": "",
+    "feature": "bold-italic",
     "flavors": {
-      "Standard Markdown": {
+      "standard-markdown": {
         "syntax": "***bolditalic***"
       },
-      "Markdown Extra": {
+      "markdown-extra": {
         "syntax": "***bolditalic***"
       },
-      "GitHub Flavored Markdown (GFM)": {
+      "github-flavored-markdown-gfm": {
         "syntax": "***bolditalic***"
       },
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "***bolditalic***"
       },
-      "R Markdown": {
+      "r-markdown": {
         "syntax": "***bolditalic***"
       },
-      "Obsidian Markdown": {
+      "obsidian-markdown": {
         "syntax": "***bolditalic***"
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "***bolditalic***"
       },
-      "Leanpub Markua": {
+      "leanpub-markua": {
         "syntax": "***bolditalic***"
       },
-      "Zettlr (Pandoc)": {
+      "zettlr-pandoc": {
         "syntax": "***bolditalic***"
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "***bolditalic***"
       },
-      "Hugo (Goldmark)": {
+      "hugo-goldmark": {
         "syntax": "***bolditalic***"
       },
-      "Docusaurus MDX": {
+      "docusaurus-mdx": {
         "syntax": "***bolditalic***"
       }
     }
   },
   {
-    "name": "Inline Code",
-    "category": "Syntax",
-    "description": "",
+    "feature": "inline-code",
     "flavors": {
-      "Standard Markdown": {
+      "standard-markdown": {
         "syntax": "`code`"
       },
-      "Markdown Extra": {
+      "markdown-extra": {
         "syntax": "`code`"
       },
-      "GitHub Flavored Markdown (GFM)": {
+      "github-flavored-markdown-gfm": {
         "syntax": "`code`"
       },
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "`code`"
       },
-      "R Markdown": {
+      "r-markdown": {
         "syntax": "`code`"
       },
-      "Obsidian Markdown": {
+      "obsidian-markdown": {
         "syntax": "`code`"
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "`code`"
       },
-      "Leanpub Markua": {
+      "leanpub-markua": {
         "syntax": "`code`"
       },
-      "Zettlr (Pandoc)": {
+      "zettlr-pandoc": {
         "syntax": "`code`"
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "`code`"
       },
-      "Hugo (Goldmark)": {
+      "hugo-goldmark": {
         "syntax": "`code`"
       },
-      "Docusaurus MDX": {
+      "docusaurus-mdx": {
         "syntax": "`code`"
       }
     }
   },
   {
-    "name": "Inline Link",
-    "category": "Syntax",
-    "description": "",
+    "feature": "inline-link",
     "flavors": {
-      "Standard Markdown": {
+      "standard-markdown": {
         "syntax": "[text](https://example.com)"
       },
-      "Markdown Extra": {
+      "markdown-extra": {
         "syntax": "[text](https://example.com)"
       },
-      "GitHub Flavored Markdown (GFM)": {
+      "github-flavored-markdown-gfm": {
         "syntax": "[text](https://example.com)"
       },
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "[text](https://example.com)"
       },
-      "R Markdown": {
+      "r-markdown": {
         "syntax": "[text](https://example.com)"
       },
-      "Obsidian Markdown": {
+      "obsidian-markdown": {
         "syntax": "[text](https://example.com)"
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "[text](https://example.com)"
       },
-      "Leanpub Markua": {
+      "leanpub-markua": {
         "syntax": "[text](https://example.com)"
       },
-      "Zettlr (Pandoc)": {
+      "zettlr-pandoc": {
         "syntax": "[text](https://example.com)"
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "[text](https://example.com)"
       },
-      "Hugo (Goldmark)": {
+      "hugo-goldmark": {
         "syntax": "[text](https://example.com)"
       },
-      "Docusaurus MDX": {
+      "docusaurus-mdx": {
         "syntax": "[text](https://example.com)"
       }
     }
   },
   {
-    "name": "Reference Link",
-    "category": "Syntax",
-    "description": "",
+    "feature": "reference-link",
     "flavors": {
-      "Standard Markdown": {
+      "standard-markdown": {
         "syntax": "[text][id]\n\n[id]: https://example.com"
       },
-      "Markdown Extra": {
+      "markdown-extra": {
         "syntax": "[text][id]\n\n[id]: https://example.com"
       },
-      "GitHub Flavored Markdown (GFM)": {
+      "github-flavored-markdown-gfm": {
         "syntax": "[text][id]\n\n[id]: https://example.com"
       },
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "[text][id]\n\n[id]: https://example.com"
       },
-      "R Markdown": {
+      "r-markdown": {
         "syntax": "[text][id]\n\n[id]: https://example.com"
       },
-      "Obsidian Markdown": {
+      "obsidian-markdown": {
         "syntax": "[text][id]\n\n[id]: https://example.com"
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "[text][id]\n\n[id]: https://example.com"
       },
-      "Leanpub Markua": {
+      "leanpub-markua": {
         "syntax": "[text][id]\n\n[id]: https://example.com"
       },
-      "Zettlr (Pandoc)": {
+      "zettlr-pandoc": {
         "syntax": "[text][id]\n\n[id]: https://example.com"
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "[text][id]\n\n[id]: https://example.com"
       },
-      "Hugo (Goldmark)": {
+      "hugo-goldmark": {
         "syntax": "[text][id]\n\n[id]: https://example.com"
       },
-      "Docusaurus MDX": {
+      "docusaurus-mdx": {
         "syntax": "[text][id]\n\n[id]: https://example.com"
       }
     }
   },
   {
-    "name": "Image",
-    "category": "Syntax",
-    "description": "",
+    "feature": "image",
     "flavors": {
-      "Standard Markdown": {
+      "standard-markdown": {
         "syntax": "![alt](image.png)"
       },
-      "Markdown Extra": {
+      "markdown-extra": {
         "syntax": "![alt](image.png)"
       },
-      "GitHub Flavored Markdown (GFM)": {
+      "github-flavored-markdown-gfm": {
         "syntax": "![alt](image.png)"
       },
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "![alt](image.png)"
       },
-      "R Markdown": {
+      "r-markdown": {
         "syntax": "![alt](image.png)"
       },
-      "Obsidian Markdown": {
+      "obsidian-markdown": {
         "syntax": "![alt](image.png)"
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "![alt](image.png)"
       },
-      "Leanpub Markua": {
+      "leanpub-markua": {
         "syntax": "![alt](image.png)"
       },
-      "Zettlr (Pandoc)": {
+      "zettlr-pandoc": {
         "syntax": "![alt](image.png)"
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "![alt](image.png)"
       },
-      "Hugo (Goldmark)": {
+      "hugo-goldmark": {
         "syntax": "![alt](image.png)"
       },
-      "Docusaurus MDX": {
+      "docusaurus-mdx": {
         "syntax": "![alt](image.png)"
       }
     }
   },
   {
-    "name": "Autolink",
-    "category": "Syntax",
-    "description": "",
+    "feature": "autolink",
     "flavors": {
-      "Standard Markdown": {
+      "standard-markdown": {
         "syntax": "<https://example.com>"
       },
-      "Markdown Extra": {
+      "markdown-extra": {
         "syntax": "<https://example.com>"
       },
-      "GitHub Flavored Markdown (GFM)": {
+      "github-flavored-markdown-gfm": {
         "syntax": "https://example.com"
       },
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "<https://example.com>"
       },
-      "R Markdown": {
+      "r-markdown": {
         "syntax": "<https://example.com>"
       },
-      "Obsidian Markdown": {
+      "obsidian-markdown": {
         "syntax": "<https://example.com>"
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "<https://example.com>"
       },
-      "Leanpub Markua": {
+      "leanpub-markua": {
         "syntax": "<https://example.com>"
       },
-      "Zettlr (Pandoc)": {
+      "zettlr-pandoc": {
         "syntax": "<https://example.com>"
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "<https://example.com>"
       },
-      "Hugo (Goldmark)": {
+      "hugo-goldmark": {
         "syntax": "<https://example.com>"
       },
-      "Docusaurus MDX": {
+      "docusaurus-mdx": {
         "syntax": "<https://example.com>"
       }
     }
   },
   {
-    "name": "Raw HTML Inline",
-    "category": "Syntax",
-    "description": "",
+    "feature": "raw-html-inline",
     "flavors": {
-      "Standard Markdown": {
+      "standard-markdown": {
         "syntax": "<sup>1</sup>"
       },
-      "Markdown Extra": {
+      "markdown-extra": {
         "syntax": "<sup>1</sup>"
       },
-      "GitHub Flavored Markdown (GFM)": {
+      "github-flavored-markdown-gfm": {
         "syntax": "<sup>1</sup>"
       },
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "<sup>1</sup>"
       },
-      "R Markdown": {
+      "r-markdown": {
         "syntax": "<sup>1</sup>"
       },
-      "Obsidian Markdown": {
+      "obsidian-markdown": {
         "syntax": "<sup>1</sup>"
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "<sup>1</sup>"
       },
-      "Leanpub Markua": {
+      "leanpub-markua": {
         "syntax": "<sup>1</sup>"
       },
-      "Zettlr (Pandoc)": {
+      "zettlr-pandoc": {
         "syntax": "<sup>1</sup>"
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "<sup>1</sup>"
       },
-      "Hugo (Goldmark)": {
+      "hugo-goldmark": {
         "syntax": "<sup>1</sup>"
       },
-      "Docusaurus MDX": {
+      "docusaurus-mdx": {
         "syntax": "<sup>1</sup>"
       }
     }
   },
   {
-    "name": "Tables",
-    "category": "Syntax",
-    "description": "",
+    "feature": "tables",
     "flavors": {
-      "Markdown Extra": {
+      "markdown-extra": {
         "syntax": "| Col1 | Col2 |\n|------|------|\n| A1 | A2 |"
       },
-      "GitHub Flavored Markdown (GFM)": {
+      "github-flavored-markdown-gfm": {
         "syntax": "| Col1 | Col2 |\n|------|------|\n| A1 | A2 |"
       },
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "| Col1 | Col2 |\n|------|------|\n| A1 | A2 |"
       },
-      "R Markdown": {
+      "r-markdown": {
         "syntax": "| Col1 | Col2 |\n|------|------|\n| A1 | A2 |"
       },
-      "Obsidian Markdown": {
+      "obsidian-markdown": {
         "syntax": "| Col1 | Col2 |\n|------|------|\n| A1 | A2 |"
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "| Col1 | Col2 |\n|------|------|\n| A1 | A2 |"
       },
-      "Leanpub Markua": {
+      "leanpub-markua": {
         "syntax": "| Col1 | Col2 |\n|------|------|\n| A1 | A2 |"
       },
-      "Zettlr (Pandoc)": {
+      "zettlr-pandoc": {
         "syntax": "| Col1 | Col2 |\n|------|------|\n| A1 | A2 |"
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "| Col1 | Col2 |\n|------|------|\n| A1 | A2 |"
       },
-      "Hugo (Goldmark)": {
+      "hugo-goldmark": {
         "syntax": "| Col1 | Col2 |\n|------|------|\n| A1 | A2 |"
       },
-      "Docusaurus MDX": {
+      "docusaurus-mdx": {
         "syntax": "| Col1 | Col2 |\n|------|------|\n| A1 | A2 |"
       }
     }
   },
   {
-    "name": "Footnotes",
-    "category": "Syntax",
-    "description": "",
+    "feature": "footnotes",
     "flavors": {
-      "Markdown Extra": {
+      "markdown-extra": {
         "syntax": "Footnote[^1]\n\n[^1]: text"
       },
-      "GitHub Flavored Markdown (GFM)": {
+      "github-flavored-markdown-gfm": {
         "syntax": "Footnote[^1]\n\n[^1]: text"
       },
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "Footnote[^1]\n\n[^1]: text"
       },
-      "R Markdown": {
+      "r-markdown": {
         "syntax": "Footnote[^1]\n\n[^1]: text"
       },
-      "Obsidian Markdown": {
+      "obsidian-markdown": {
         "syntax": "Footnote[^1]\n\n[^1]: text"
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "Footnote[^1]\n\n[^1]: text"
       },
-      "Leanpub Markua": {
+      "leanpub-markua": {
         "syntax": "Footnote[^1]\n\n[^1]: text"
       },
-      "Zettlr (Pandoc)": {
+      "zettlr-pandoc": {
         "syntax": "Footnote[^1]\n\n[^1]: text"
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "Footnote[^1]\n\n[^1]: text"
       },
-      "Hugo (Goldmark)": {
+      "hugo-goldmark": {
         "syntax": "Footnote[^1]\n\n[^1]: text"
       },
-      "Docusaurus MDX": {
+      "docusaurus-mdx": {
         "syntax": "Footnote[^1]\n\n[^1]: text"
       }
     }
   },
   {
-    "name": "Definition Lists",
-    "category": "Syntax",
-    "description": "",
+    "feature": "definition-lists",
     "flavors": {
-      "Markdown Extra": {
+      "markdown-extra": {
         "syntax": "Term\n: Definition"
       },
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "Term\n: Definition"
       },
-      "R Markdown": {
+      "r-markdown": {
         "syntax": "Term\n: Definition"
       }
     }
   },
   {
-    "name": "Task Lists",
-    "category": "Syntax",
-    "description": "",
+    "feature": "task-lists",
     "flavors": {
-      "GitHub Flavored Markdown (GFM)": {
+      "github-flavored-markdown-gfm": {
         "syntax": "- [ ] Task"
       },
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "- [ ] Task"
       },
-      "R Markdown": {
+      "r-markdown": {
         "syntax": "- [ ] Task"
       },
-      "Obsidian Markdown": {
+      "obsidian-markdown": {
         "syntax": "- [ ] Task"
       },
-      "Zettlr (Pandoc)": {
+      "zettlr-pandoc": {
         "syntax": "- [ ] Task"
       },
-      "Hugo (Goldmark)": {
+      "hugo-goldmark": {
         "syntax": "- [ ] Task"
       }
     }
   },
   {
-    "name": "Abbreviations",
-    "category": "Syntax",
-    "description": "",
+    "feature": "abbreviations",
     "flavors": {
-      "Markdown Extra": {
+      "markdown-extra": {
         "syntax": "*[HTML]: Hyper Text Markup Language"
       },
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "*[HTML]: Hyper Text Markup Language"
       }
     }
   },
   {
-    "name": "Fenced Code Block",
-    "category": "Syntax",
-    "description": "",
+    "feature": "fenced-code-block",
     "flavors": {
-      "GitHub Flavored Markdown (GFM)": {
+      "github-flavored-markdown-gfm": {
         "syntax": "```python\nprint(\"hi\")\n```"
       },
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "```python\nprint(\"hi\")\n```"
       },
-      "R Markdown": {
+      "r-markdown": {
         "syntax": "```python\nprint(\"hi\")\n```"
       },
-      "Obsidian Markdown": {
+      "obsidian-markdown": {
         "syntax": "```python\nprint(\"hi\")\n```"
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "```python\nprint(\"hi\")\n```"
       },
-      "Leanpub Markua": {
+      "leanpub-markua": {
         "syntax": "```python\nprint(\"hi\")\n```"
       },
-      "Zettlr (Pandoc)": {
+      "zettlr-pandoc": {
         "syntax": "```python\nprint(\"hi\")\n```"
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "```python\nprint(\"hi\")\n```"
       },
-      "Hugo (Goldmark)": {
+      "hugo-goldmark": {
         "syntax": "```python\nprint(\"hi\")\n```"
       },
-      "Docusaurus MDX": {
+      "docusaurus-mdx": {
         "syntax": "```python\nprint(\"hi\")\n```"
       }
     }
   },
   {
-    "name": "Syntax Highlighting",
-    "category": "Syntax",
-    "description": "",
+    "feature": "syntax-highlighting",
     "flavors": {
-      "GitHub Flavored Markdown (GFM)": {
+      "github-flavored-markdown-gfm": {
         "syntax": "```js\nconsole.log(1)\n```"
       },
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "```js\nconsole.log(1)\n```"
       },
-      "R Markdown": {
+      "r-markdown": {
         "syntax": "```js\nconsole.log(1)\n```"
       },
-      "Obsidian Markdown": {
+      "obsidian-markdown": {
         "syntax": "```js\nconsole.log(1)\n```"
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "```js\nconsole.log(1)\n```"
       },
-      "Leanpub Markua": {
+      "leanpub-markua": {
         "syntax": "```js\nconsole.log(1)\n```"
       },
-      "Zettlr (Pandoc)": {
+      "zettlr-pandoc": {
         "syntax": "```js\nconsole.log(1)\n```"
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "```js\nconsole.log(1)\n```"
       },
-      "Hugo (Goldmark)": {
+      "hugo-goldmark": {
         "syntax": "```js\nconsole.log(1)\n```"
       },
-      "Docusaurus MDX": {
+      "docusaurus-mdx": {
         "syntax": "```js\nconsole.log(1)\n```"
       }
     }
   },
   {
-    "name": "Code Block Title",
-    "category": "Syntax",
-    "description": "",
+    "feature": "code-block-title",
     "flavors": {
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "```python title=\"script.py\"\nprint()\n```"
       },
-      "R Markdown": {
+      "r-markdown": {
         "syntax": "```{python, echo=FALSE}\nprint()\n```"
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "```{code-block} python\n---\ncaption: script.py\n---\nprint()\n```"
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "```{code-cell} python\n---\nfilename: script.py\n---\nprint()\n```"
       },
-      "Docusaurus MDX": {
+      "docusaurus-mdx": {
         "syntax": "```python title=\"script.py\"\nprint()\n```"
       }
     }
   },
   {
-    "name": "Mermaid Diagram",
-    "category": "Syntax",
-    "description": "",
+    "feature": "mermaid-diagram",
     "flavors": {
-      "GitHub Flavored Markdown (GFM)": {
+      "github-flavored-markdown-gfm": {
         "syntax": "```mermaid\ngraph TD;\nA-->B;\n```"
       },
-      "Obsidian Markdown": {
+      "obsidian-markdown": {
         "syntax": "```mermaid\ngraph TD;\nA-->B;\n```"
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "```mermaid\ngraph TD;\nA-->B;\n```"
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "```mermaid\ngraph TD;\nA-->B;\n```"
       },
-      "Hugo (Goldmark)": {
+      "hugo-goldmark": {
         "syntax": "```mermaid\ngraph TD;\nA-->B;\n```"
       },
-      "Docusaurus MDX": {
+      "docusaurus-mdx": {
         "syntax": "```mermaid\ngraph TD;\nA-->B;\n```"
       }
     }
   },
   {
-    "name": "PlantUML Diagram",
-    "category": "Syntax",
-    "description": "",
+    "feature": "plantuml-diagram",
     "flavors": {
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "```{plantuml}\n@startuml\nA->B\n@enduml\n```"
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "```{plantuml}\n@startuml\nA->B\n@enduml\n```"
       }
     }
   },
   {
-    "name": "Inline Math",
-    "category": "Syntax",
-    "description": "",
+    "feature": "inline-math",
     "flavors": {
-      "GitHub Flavored Markdown (GFM)": {
+      "github-flavored-markdown-gfm": {
         "syntax": "$E=mc^2$"
       },
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "$E=mc^2$"
       },
-      "R Markdown": {
+      "r-markdown": {
         "syntax": "$E=mc^2$"
       },
-      "Obsidian Markdown": {
+      "obsidian-markdown": {
         "syntax": "$E=mc^2$"
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "$E=mc^2$"
       },
-      "Leanpub Markua": {
+      "leanpub-markua": {
         "syntax": "$E=mc^2$"
       },
-      "Zettlr (Pandoc)": {
+      "zettlr-pandoc": {
         "syntax": "$E=mc^2$"
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "$E=mc^2$"
       },
-      "Hugo (Goldmark)": {
+      "hugo-goldmark": {
         "syntax": "$E=mc^2$"
       }
     }
   },
   {
-    "name": "Display Math",
-    "category": "Syntax",
-    "description": "",
+    "feature": "display-math",
     "flavors": {
-      "GitHub Flavored Markdown (GFM)": {
+      "github-flavored-markdown-gfm": {
         "syntax": "$$\nE=mc^2\n$$"
       },
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "$$\nE=mc^2\n$$"
       },
-      "R Markdown": {
+      "r-markdown": {
         "syntax": "$$\nE=mc^2\n$$"
       },
-      "Obsidian Markdown": {
+      "obsidian-markdown": {
         "syntax": "$$\nE=mc^2\n$$"
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "$$\nE=mc^2\n$$"
       },
-      "Leanpub Markua": {
+      "leanpub-markua": {
         "syntax": "$$\nE=mc^2\n$$"
       },
-      "Zettlr (Pandoc)": {
+      "zettlr-pandoc": {
         "syntax": "$$\nE=mc^2\n$$"
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "$$\nE=mc^2\n$$"
       },
-      "Hugo (Goldmark)": {
+      "hugo-goldmark": {
         "syntax": "$$\nE=mc^2\n$$"
       }
     }
   },
   {
-    "name": "YAML Front Matter",
-    "category": "Syntax",
-    "description": "",
+    "feature": "yaml-front-matter",
     "flavors": {
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "---\ntitle: Example\n---"
       },
-      "R Markdown": {
+      "r-markdown": {
         "syntax": "---\ntitle: Example\n---"
       },
-      "Obsidian Markdown": {
+      "obsidian-markdown": {
         "syntax": "---\ntitle: Example\n---"
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "---\ntitle: Example\n---"
       },
-      "Zettlr (Pandoc)": {
+      "zettlr-pandoc": {
         "syntax": "---\ntitle: Example\n---"
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "---\ntitle: Example\n---"
       },
-      "Hugo (Goldmark)": {
+      "hugo-goldmark": {
         "syntax": "---\ntitle: Example\n---"
       },
-      "Docusaurus MDX": {
+      "docusaurus-mdx": {
         "syntax": "---\ntitle: Example\n---"
       }
     }
   },
   {
-    "name": "Citations",
-    "category": "Syntax",
-    "description": "",
+    "feature": "citations",
     "flavors": {
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "According to [@smith2020]."
       },
-      "R Markdown": {
+      "r-markdown": {
         "syntax": "According to [@smith2020]."
       },
-      "Zettlr (Pandoc)": {
+      "zettlr-pandoc": {
         "syntax": "According to [@smith2020]."
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "{cite}`smith2020`"
       }
     }
   },
   {
-    "name": "Cross References",
-    "category": "Syntax",
-    "description": "",
+    "feature": "cross-references",
     "flavors": {
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "See @fig:diagram."
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "{ref}`section-label`"
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "{numref}`Figure <fig-diagram>`"
       }
     }
   },
   {
-    "name": "Automatic TOC",
-    "category": "Syntax",
-    "description": "",
+    "feature": "automatic-toc",
     "flavors": {
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "[TOC]"
       },
-      "R Markdown": {
+      "r-markdown": {
         "syntax": "[TOC]"
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "```{contents}```"
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "```{contents}```"
       },
-      "Hugo (Goldmark)": {
+      "hugo-goldmark": {
         "syntax": "{{< toc >}}"
       }
     }
   },
   {
-    "name": "Admonition",
-    "category": "Syntax",
-    "description": "",
+    "feature": "admonition",
     "flavors": {
-      "GitHub Flavored Markdown (GFM)": {
+      "github-flavored-markdown-gfm": {
         "syntax": "> [!NOTE]\n> A note."
       },
-      "Pandoc Markdown": {
+      "pandoc-markdown": {
         "syntax": "!!! note\n    A note."
       },
-      "Obsidian Markdown": {
+      "obsidian-markdown": {
         "syntax": "> [!NOTE]\n> A note."
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "```{note}\nA note.\n```"
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "```{note}\nA note.\n```"
       },
-      "Docusaurus MDX": {
+      "docusaurus-mdx": {
         "syntax": ":::note\nA note.\n:::"
       }
     }
   },
   {
-    "name": "Collapsible Section",
-    "category": "Syntax",
-    "description": "",
+    "feature": "collapsible-section",
     "flavors": {
-      "GitHub Flavored Markdown (GFM)": {
+      "github-flavored-markdown-gfm": {
         "syntax": "<details><summary>More</summary>\nHidden\n</details>"
       },
-      "Obsidian Markdown": {
+      "obsidian-markdown": {
         "syntax": "> [!NOTE]+ collapsible\n> Hidden"
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "```{dropdown}\nHidden\n```"
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "```{dropdown}\nHidden\n```"
       },
-      "Hugo (Goldmark)": {
+      "hugo-goldmark": {
         "syntax": "<details><summary>More</summary>\nHidden\n</details>"
       },
-      "Docusaurus MDX": {
+      "docusaurus-mdx": {
         "syntax": "<details><summary>More</summary>\nHidden\n</details>"
       }
     }
   },
   {
-    "name": "Transclusion",
-    "category": "Syntax",
-    "description": "",
+    "feature": "transclusion",
     "flavors": {
-      "Obsidian Markdown": {
+      "obsidian-markdown": {
         "syntax": "![[Other Note]]"
       },
-      "MyST Markdown": {
+      "myst-markdown": {
         "syntax": "```{include} other.md```"
       },
-      "Jupyter Book (MyST)": {
+      "jupyter-book-myst": {
         "syntax": "```{include} other.md```"
       },
-      "Docusaurus MDX": {
+      "docusaurus-mdx": {
         "syntax": "import Other from './other.md';\n<Other />"
       }
     }
