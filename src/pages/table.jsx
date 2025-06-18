@@ -1,15 +1,29 @@
 import React from 'react';
-import useBaseUrl from '@docusaurus/useBaseUrl';
 import Layout from '@theme/Layout';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './table.module.css';
-import data from '@site/static/data/syntax.json';
 
-export default function SyntaxTable() {
-  const flavors = Object.keys(data[0].flavors);
+export default function TablePage() {
+  const dataUrl = useBaseUrl('/data/syntax.json');
+  const [features, setFeatures] = React.useState([]);
+  const [flavors, setFlavors] = React.useState([]);
+
+  React.useEffect(() => {
+    fetch(dataUrl)
+      .then((res) => res.json())
+      .then((json) => {
+        setFeatures(json);
+        const flavorSet = new Set();
+        json.forEach((feat) => {
+          Object.keys(feat.flavors).forEach((f) => flavorSet.add(f));
+        });
+        setFlavors(Array.from(flavorSet));
+      });
+  }, [dataUrl]);
 
   return (
-    <Layout title="Syntax Table" description="Markdown syntax comparison">
-      <div className={styles.tableWrapper}>
+    <Layout title="Markdown Syntax Matrix">
+      <div className={styles.container}>
         <table className={styles.matrix}>
           <thead>
             <tr>
@@ -20,19 +34,24 @@ export default function SyntaxTable() {
             </tr>
           </thead>
           <tbody>
-            {data.map((feature) => (
-              <tr key={feature.name}>
-                <td>{feature.name}</td>
+            {features.map((feat) => (
+              <tr key={feat.name}>
+                <td>
+                  <strong>{feat.name}</strong>
+                  <div className={styles.description}>{feat.description}</div>
+                </td>
                 {flavors.map((flavor) => {
-                  const info = feature.flavors[flavor] || {};
+                  const info = feat.flavors[flavor] || {};
+                  if (!info.supported) {
+                    return <td key={flavor}></td>;
+                  }
                   return (
                     <td key={flavor}>
-                      {info.supported && info.syntax && (
+                      {info.syntax && (
                         <pre>
                           <code>{info.syntax}</code>
                         </pre>
                       )}
-                      {info.supported && !info.syntax && <span>✓</span>}
                       {info.notes && <small>{info.notes}</small>}
                     </td>
                   );
