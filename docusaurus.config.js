@@ -51,6 +51,11 @@ const config = {
           },
         ],
       },
+      prism: {
+        additionalLanguages: ['markdown', 'html'],
+        theme: prismThemes.github,
+        darkTheme: prismThemes.vsDark,
+      },
     }),
 };
 
