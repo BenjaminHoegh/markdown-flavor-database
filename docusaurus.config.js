@@ -37,8 +37,6 @@ const config = {
       }),
     ],
   ],
-  
-  themes: ['@docusaurus/theme-classic'],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */ ({
