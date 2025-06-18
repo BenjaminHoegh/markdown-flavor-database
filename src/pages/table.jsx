@@ -41,8 +41,8 @@ export default function TablePage() {
                   <div className={styles.description}>{feat.description}</div>
                 </td>
                 {flavors.map((flavor) => {
-                  const info = feat.flavors[flavor] || {};
-                  if (!info.supported) {
+                  const info = feat.flavors[flavor];
+                  if (!info) {
                     return <td key={flavor}></td>;
                   }
                   return (

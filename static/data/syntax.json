@@ -5,51 +5,39 @@
     "description": "",
     "flavors": {
       "Standard Markdown": {
-        "supported": true,
         "syntax": "# Heading 1"
       },
       "Markdown Extra": {
-        "supported": true,
         "syntax": "# Heading 1"
       },
       "GitHub Flavored Markdown (GFM)": {
-        "supported": true,
         "syntax": "# Heading 1"
       },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "# Heading 1"
       },
       "R Markdown": {
-        "supported": true,
         "syntax": "# Heading 1"
       },
       "Obsidian Markdown": {
-        "supported": true,
         "syntax": "# Heading 1"
       },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "# Heading 1"
       },
       "Leanpub Markua": {
-        "supported": true,
         "syntax": "# Heading 1"
       },
       "Zettlr (Pandoc)": {
-        "supported": true,
         "syntax": "# Heading 1"
       },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "# Heading 1"
       },
       "Hugo (Goldmark)": {
-        "supported": true,
         "syntax": "# Heading 1"
       },
       "Docusaurus MDX": {
-        "supported": true,
         "syntax": "# Heading 1"
       }
     }
@@ -60,51 +48,39 @@
     "description": "",
     "flavors": {
       "Standard Markdown": {
-        "supported": true,
         "syntax": "Heading 1\n========="
       },
       "Markdown Extra": {
-        "supported": true,
         "syntax": "Heading 1\n========="
       },
       "GitHub Flavored Markdown (GFM)": {
-        "supported": true,
         "syntax": "Heading 1\n========="
       },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "Heading 1\n========="
       },
       "R Markdown": {
-        "supported": true,
         "syntax": "Heading 1\n========="
       },
       "Obsidian Markdown": {
-        "supported": true,
         "syntax": "Heading 1\n========="
       },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "Heading 1\n========="
       },
       "Leanpub Markua": {
-        "supported": true,
         "syntax": "Heading 1\n========="
       },
       "Zettlr (Pandoc)": {
-        "supported": true,
         "syntax": "Heading 1\n========="
       },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "Heading 1\n========="
       },
       "Hugo (Goldmark)": {
-        "supported": true,
         "syntax": "Heading 1\n========="
       },
       "Docusaurus MDX": {
-        "supported": true,
         "syntax": "Heading 1\n========="
       }
     }
@@ -115,51 +91,39 @@
     "description": "",
     "flavors": {
       "Standard Markdown": {
-        "supported": true,
         "syntax": "This is a paragraph."
       },
       "Markdown Extra": {
-        "supported": true,
         "syntax": "This is a paragraph."
       },
       "GitHub Flavored Markdown (GFM)": {
-        "supported": true,
         "syntax": "This is a paragraph."
       },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "This is a paragraph."
       },
       "R Markdown": {
-        "supported": true,
         "syntax": "This is a paragraph."
       },
       "Obsidian Markdown": {
-        "supported": true,
         "syntax": "This is a paragraph."
       },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "This is a paragraph."
       },
       "Leanpub Markua": {
-        "supported": true,
         "syntax": "This is a paragraph."
       },
       "Zettlr (Pandoc)": {
-        "supported": true,
         "syntax": "This is a paragraph."
       },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "This is a paragraph."
       },
       "Hugo (Goldmark)": {
-        "supported": true,
         "syntax": "This is a paragraph."
       },
       "Docusaurus MDX": {
-        "supported": true,
         "syntax": "This is a paragraph."
       }
     }
@@ -170,51 +134,39 @@
     "description": "",
     "flavors": {
       "Standard Markdown": {
-        "supported": true,
         "syntax": "> Blockquote"
       },
       "Markdown Extra": {
-        "supported": true,
         "syntax": "> Blockquote"
       },
       "GitHub Flavored Markdown (GFM)": {
-        "supported": true,
         "syntax": "> Blockquote"
       },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "> Blockquote"
       },
       "R Markdown": {
-        "supported": true,
         "syntax": "> Blockquote"
       },
       "Obsidian Markdown": {
-        "supported": true,
         "syntax": "> Blockquote"
       },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "> Blockquote"
       },
       "Leanpub Markua": {
-        "supported": true,
         "syntax": "> Blockquote"
       },
       "Zettlr (Pandoc)": {
-        "supported": true,
         "syntax": "> Blockquote"
       },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "> Blockquote"
       },
       "Hugo (Goldmark)": {
-        "supported": true,
         "syntax": "> Blockquote"
       },
       "Docusaurus MDX": {
-        "supported": true,
         "syntax": "> Blockquote"
       }
     }
@@ -225,51 +177,39 @@
     "description": "",
     "flavors": {
       "Standard Markdown": {
-        "supported": true,
         "syntax": "- Item"
       },
       "Markdown Extra": {
-        "supported": true,
         "syntax": "- Item"
       },
       "GitHub Flavored Markdown (GFM)": {
-        "supported": true,
         "syntax": "- Item"
       },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "- Item"
       },
       "R Markdown": {
-        "supported": true,
         "syntax": "- Item"
       },
       "Obsidian Markdown": {
-        "supported": true,
         "syntax": "- Item"
       },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "- Item"
       },
       "Leanpub Markua": {
-        "supported": true,
         "syntax": "- Item"
       },
       "Zettlr (Pandoc)": {
-        "supported": true,
         "syntax": "- Item"
       },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "- Item"
       },
       "Hugo (Goldmark)": {
-        "supported": true,
         "syntax": "- Item"
       },
       "Docusaurus MDX": {
-        "supported": true,
         "syntax": "- Item"
       }
     }
@@ -280,51 +220,39 @@
     "description": "",
     "flavors": {
       "Standard Markdown": {
-        "supported": true,
         "syntax": "1. Item"
       },
       "Markdown Extra": {
-        "supported": true,
         "syntax": "1. Item"
       },
       "GitHub Flavored Markdown (GFM)": {
-        "supported": true,
         "syntax": "1. Item"
       },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "1. Item"
       },
       "R Markdown": {
-        "supported": true,
         "syntax": "1. Item"
       },
       "Obsidian Markdown": {
-        "supported": true,
         "syntax": "1. Item"
       },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "1. Item"
       },
       "Leanpub Markua": {
-        "supported": true,
         "syntax": "1. Item"
       },
       "Zettlr (Pandoc)": {
-        "supported": true,
         "syntax": "1. Item"
       },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "1. Item"
       },
       "Hugo (Goldmark)": {
-        "supported": true,
         "syntax": "1. Item"
       },
       "Docusaurus MDX": {
-        "supported": true,
         "syntax": "1. Item"
       }
     }
@@ -335,51 +263,39 @@
     "description": "",
     "flavors": {
       "Standard Markdown": {
-        "supported": true,
         "syntax": "---"
       },
       "Markdown Extra": {
-        "supported": true,
         "syntax": "---"
       },
       "GitHub Flavored Markdown (GFM)": {
-        "supported": true,
         "syntax": "---"
       },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "---"
       },
       "R Markdown": {
-        "supported": true,
         "syntax": "---"
       },
       "Obsidian Markdown": {
-        "supported": true,
         "syntax": "---"
       },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "---"
       },
       "Leanpub Markua": {
-        "supported": true,
         "syntax": "---"
       },
       "Zettlr (Pandoc)": {
-        "supported": true,
         "syntax": "---"
       },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "---"
       },
       "Hugo (Goldmark)": {
-        "supported": true,
         "syntax": "---"
       },
       "Docusaurus MDX": {
-        "supported": true,
         "syntax": "---"
       }
     }
@@ -390,51 +306,39 @@
     "description": "",
     "flavors": {
       "Standard Markdown": {
-        "supported": true,
         "syntax": "    code"
       },
       "Markdown Extra": {
-        "supported": true,
         "syntax": "    code"
       },
       "GitHub Flavored Markdown (GFM)": {
-        "supported": true,
         "syntax": "    code"
       },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "    code"
       },
       "R Markdown": {
-        "supported": true,
         "syntax": "    code"
       },
       "Obsidian Markdown": {
-        "supported": true,
         "syntax": "    code"
       },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "    code"
       },
       "Leanpub Markua": {
-        "supported": true,
         "syntax": "    code"
       },
       "Zettlr (Pandoc)": {
-        "supported": true,
         "syntax": "    code"
       },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "    code"
       },
       "Hugo (Goldmark)": {
-        "supported": true,
         "syntax": "    code"
       },
       "Docusaurus MDX": {
-        "supported": true,
         "syntax": "    code"
       }
     }
@@ -445,51 +349,39 @@
     "description": "",
     "flavors": {
       "Standard Markdown": {
-        "supported": true,
         "syntax": "**bold**"
       },
       "Markdown Extra": {
-        "supported": true,
         "syntax": "**bold**"
       },
       "GitHub Flavored Markdown (GFM)": {
-        "supported": true,
         "syntax": "**bold**"
       },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "**bold**"
       },
       "R Markdown": {
-        "supported": true,
         "syntax": "**bold**"
       },
       "Obsidian Markdown": {
-        "supported": true,
         "syntax": "**bold**"
       },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "**bold**"
       },
       "Leanpub Markua": {
-        "supported": true,
         "syntax": "**bold**"
       },
       "Zettlr (Pandoc)": {
-        "supported": true,
         "syntax": "**bold**"
       },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "**bold**"
       },
       "Hugo (Goldmark)": {
-        "supported": true,
         "syntax": "**bold**"
       },
       "Docusaurus MDX": {
-        "supported": true,
         "syntax": "**bold**"
       }
     }
@@ -500,51 +392,39 @@
     "description": "",
     "flavors": {
       "Standard Markdown": {
-        "supported": true,
         "syntax": "*italic*"
       },
       "Markdown Extra": {
-        "supported": true,
         "syntax": "*italic*"
       },
       "GitHub Flavored Markdown (GFM)": {
-        "supported": true,
         "syntax": "*italic*"
       },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "*italic*"
       },
       "R Markdown": {
-        "supported": true,
         "syntax": "*italic*"
       },
       "Obsidian Markdown": {
-        "supported": true,
         "syntax": "*italic*"
       },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "*italic*"
       },
       "Leanpub Markua": {
-        "supported": true,
         "syntax": "*italic*"
       },
       "Zettlr (Pandoc)": {
-        "supported": true,
         "syntax": "*italic*"
       },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "*italic*"
       },
       "Hugo (Goldmark)": {
-        "supported": true,
         "syntax": "*italic*"
       },
       "Docusaurus MDX": {
-        "supported": true,
         "syntax": "*italic*"
       }
     }
@@ -555,95 +435,40 @@
     "description": "",
     "flavors": {
       "Standard Markdown": {
-        "supported": true,
         "syntax": "***bolditalic***"
       },
       "Markdown Extra": {
-        "supported": true,
         "syntax": "***bolditalic***"
       },
       "GitHub Flavored Markdown (GFM)": {
-        "supported": true,
         "syntax": "***bolditalic***"
       },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "***bolditalic***"
       },
       "R Markdown": {
-        "supported": true,
         "syntax": "***bolditalic***"
       },
       "Obsidian Markdown": {
-        "supported": true,
         "syntax": "***bolditalic***"
       },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "***bolditalic***"
       },
       "Leanpub Markua": {
-        "supported": true,
         "syntax": "***bolditalic***"
       },
       "Zettlr (Pandoc)": {
-        "supported": true,
         "syntax": "***bolditalic***"
       },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "***bolditalic***"
       },
       "Hugo (Goldmark)": {
-        "supported": true,
         "syntax": "***bolditalic***"
       },
       "Docusaurus MDX": {
-        "supported": true,
         "syntax": "***bolditalic***"
-      }
-    }
-  },
-  {
-    "name": "Strikethrough",
-    "category": "Syntax",
-    "description": "",
-    "flavors": {
-      "Standard Markdown": {
-        "supported": false
-      },
-      "Markdown Extra": {
-        "supported": false
-      },
-      "GitHub Flavored Markdown (GFM)": {
-        "supported": false
-      },
-      "Pandoc Markdown": {
-        "supported": false
-      },
-      "R Markdown": {
-        "supported": false
-      },
-      "Obsidian Markdown": {
-        "supported": false
-      },
-      "MyST Markdown": {
-        "supported": false
-      },
-      "Leanpub Markua": {
-        "supported": false
-      },
-      "Zettlr (Pandoc)": {
-        "supported": false
-      },
-      "Jupyter Book (MyST)": {
-        "supported": false
-      },
-      "Hugo (Goldmark)": {
-        "supported": false
-      },
-      "Docusaurus MDX": {
-        "supported": false
       }
     }
   },
@@ -653,51 +478,39 @@
     "description": "",
     "flavors": {
       "Standard Markdown": {
-        "supported": true,
         "syntax": "`code`"
       },
       "Markdown Extra": {
-        "supported": true,
         "syntax": "`code`"
       },
       "GitHub Flavored Markdown (GFM)": {
-        "supported": true,
         "syntax": "`code`"
       },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "`code`"
       },
       "R Markdown": {
-        "supported": true,
         "syntax": "`code`"
       },
       "Obsidian Markdown": {
-        "supported": true,
         "syntax": "`code`"
       },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "`code`"
       },
       "Leanpub Markua": {
-        "supported": true,
         "syntax": "`code`"
       },
       "Zettlr (Pandoc)": {
-        "supported": true,
         "syntax": "`code`"
       },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "`code`"
       },
       "Hugo (Goldmark)": {
-        "supported": true,
         "syntax": "`code`"
       },
       "Docusaurus MDX": {
-        "supported": true,
         "syntax": "`code`"
       }
     }
@@ -708,51 +521,39 @@
     "description": "",
     "flavors": {
       "Standard Markdown": {
-        "supported": true,
         "syntax": "[text](https://example.com)"
       },
       "Markdown Extra": {
-        "supported": true,
         "syntax": "[text](https://example.com)"
       },
       "GitHub Flavored Markdown (GFM)": {
-        "supported": true,
         "syntax": "[text](https://example.com)"
       },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "[text](https://example.com)"
       },
       "R Markdown": {
-        "supported": true,
         "syntax": "[text](https://example.com)"
       },
       "Obsidian Markdown": {
-        "supported": true,
         "syntax": "[text](https://example.com)"
       },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "[text](https://example.com)"
       },
       "Leanpub Markua": {
-        "supported": true,
         "syntax": "[text](https://example.com)"
       },
       "Zettlr (Pandoc)": {
-        "supported": true,
         "syntax": "[text](https://example.com)"
       },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "[text](https://example.com)"
       },
       "Hugo (Goldmark)": {
-        "supported": true,
         "syntax": "[text](https://example.com)"
       },
       "Docusaurus MDX": {
-        "supported": true,
         "syntax": "[text](https://example.com)"
       }
     }
@@ -763,51 +564,39 @@
     "description": "",
     "flavors": {
       "Standard Markdown": {
-        "supported": true,
         "syntax": "[text][id]\n\n[id]: https://example.com"
       },
       "Markdown Extra": {
-        "supported": true,
         "syntax": "[text][id]\n\n[id]: https://example.com"
       },
       "GitHub Flavored Markdown (GFM)": {
-        "supported": true,
         "syntax": "[text][id]\n\n[id]: https://example.com"
       },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "[text][id]\n\n[id]: https://example.com"
       },
       "R Markdown": {
-        "supported": true,
         "syntax": "[text][id]\n\n[id]: https://example.com"
       },
       "Obsidian Markdown": {
-        "supported": true,
         "syntax": "[text][id]\n\n[id]: https://example.com"
       },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "[text][id]\n\n[id]: https://example.com"
       },
       "Leanpub Markua": {
-        "supported": true,
         "syntax": "[text][id]\n\n[id]: https://example.com"
       },
       "Zettlr (Pandoc)": {
-        "supported": true,
         "syntax": "[text][id]\n\n[id]: https://example.com"
       },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "[text][id]\n\n[id]: https://example.com"
       },
       "Hugo (Goldmark)": {
-        "supported": true,
         "syntax": "[text][id]\n\n[id]: https://example.com"
       },
       "Docusaurus MDX": {
-        "supported": true,
         "syntax": "[text][id]\n\n[id]: https://example.com"
       }
     }
@@ -818,51 +607,39 @@
     "description": "",
     "flavors": {
       "Standard Markdown": {
-        "supported": true,
         "syntax": "![alt](image.png)"
       },
       "Markdown Extra": {
-        "supported": true,
         "syntax": "![alt](image.png)"
       },
       "GitHub Flavored Markdown (GFM)": {
-        "supported": true,
         "syntax": "![alt](image.png)"
       },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "![alt](image.png)"
       },
       "R Markdown": {
-        "supported": true,
         "syntax": "![alt](image.png)"
       },
       "Obsidian Markdown": {
-        "supported": true,
         "syntax": "![alt](image.png)"
       },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "![alt](image.png)"
       },
       "Leanpub Markua": {
-        "supported": true,
         "syntax": "![alt](image.png)"
       },
       "Zettlr (Pandoc)": {
-        "supported": true,
         "syntax": "![alt](image.png)"
       },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "![alt](image.png)"
       },
       "Hugo (Goldmark)": {
-        "supported": true,
         "syntax": "![alt](image.png)"
       },
       "Docusaurus MDX": {
-        "supported": true,
         "syntax": "![alt](image.png)"
       }
     }
@@ -873,51 +650,39 @@
     "description": "",
     "flavors": {
       "Standard Markdown": {
-        "supported": true,
         "syntax": "<https://example.com>"
       },
       "Markdown Extra": {
-        "supported": true,
         "syntax": "<https://example.com>"
       },
       "GitHub Flavored Markdown (GFM)": {
-        "supported": true,
         "syntax": "https://example.com"
       },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "<https://example.com>"
       },
       "R Markdown": {
-        "supported": true,
         "syntax": "<https://example.com>"
       },
       "Obsidian Markdown": {
-        "supported": true,
         "syntax": "<https://example.com>"
       },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "<https://example.com>"
       },
       "Leanpub Markua": {
-        "supported": true,
         "syntax": "<https://example.com>"
       },
       "Zettlr (Pandoc)": {
-        "supported": true,
         "syntax": "<https://example.com>"
       },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "<https://example.com>"
       },
       "Hugo (Goldmark)": {
-        "supported": true,
         "syntax": "<https://example.com>"
       },
       "Docusaurus MDX": {
-        "supported": true,
         "syntax": "<https://example.com>"
       }
     }
@@ -928,51 +693,39 @@
     "description": "",
     "flavors": {
       "Standard Markdown": {
-        "supported": true,
         "syntax": "<sup>1</sup>"
       },
       "Markdown Extra": {
-        "supported": true,
         "syntax": "<sup>1</sup>"
       },
       "GitHub Flavored Markdown (GFM)": {
-        "supported": true,
         "syntax": "<sup>1</sup>"
       },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "<sup>1</sup>"
       },
       "R Markdown": {
-        "supported": true,
         "syntax": "<sup>1</sup>"
       },
       "Obsidian Markdown": {
-        "supported": true,
         "syntax": "<sup>1</sup>"
       },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "<sup>1</sup>"
       },
       "Leanpub Markua": {
-        "supported": true,
         "syntax": "<sup>1</sup>"
       },
       "Zettlr (Pandoc)": {
-        "supported": true,
         "syntax": "<sup>1</sup>"
       },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "<sup>1</sup>"
       },
       "Hugo (Goldmark)": {
-        "supported": true,
         "syntax": "<sup>1</sup>"
       },
       "Docusaurus MDX": {
-        "supported": true,
         "syntax": "<sup>1</sup>"
       }
     }
@@ -982,51 +735,37 @@
     "category": "Syntax",
     "description": "",
     "flavors": {
-      "Standard Markdown": {
-        "supported": false
-      },
       "Markdown Extra": {
-        "supported": true,
         "syntax": "| Col1 | Col2 |\n|------|------|\n| A1 | A2 |"
       },
       "GitHub Flavored Markdown (GFM)": {
-        "supported": true,
         "syntax": "| Col1 | Col2 |\n|------|------|\n| A1 | A2 |"
       },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "| Col1 | Col2 |\n|------|------|\n| A1 | A2 |"
       },
       "R Markdown": {
-        "supported": true,
         "syntax": "| Col1 | Col2 |\n|------|------|\n| A1 | A2 |"
       },
       "Obsidian Markdown": {
-        "supported": true,
         "syntax": "| Col1 | Col2 |\n|------|------|\n| A1 | A2 |"
       },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "| Col1 | Col2 |\n|------|------|\n| A1 | A2 |"
       },
       "Leanpub Markua": {
-        "supported": true,
         "syntax": "| Col1 | Col2 |\n|------|------|\n| A1 | A2 |"
       },
       "Zettlr (Pandoc)": {
-        "supported": true,
         "syntax": "| Col1 | Col2 |\n|------|------|\n| A1 | A2 |"
       },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "| Col1 | Col2 |\n|------|------|\n| A1 | A2 |"
       },
       "Hugo (Goldmark)": {
-        "supported": true,
         "syntax": "| Col1 | Col2 |\n|------|------|\n| A1 | A2 |"
       },
       "Docusaurus MDX": {
-        "supported": true,
         "syntax": "| Col1 | Col2 |\n|------|------|\n| A1 | A2 |"
       }
     }
@@ -1036,51 +775,37 @@
     "category": "Syntax",
     "description": "",
     "flavors": {
-      "Standard Markdown": {
-        "supported": false
-      },
       "Markdown Extra": {
-        "supported": true,
         "syntax": "Footnote[^1]\n\n[^1]: text"
       },
       "GitHub Flavored Markdown (GFM)": {
-        "supported": true,
         "syntax": "Footnote[^1]\n\n[^1]: text"
       },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "Footnote[^1]\n\n[^1]: text"
       },
       "R Markdown": {
-        "supported": true,
         "syntax": "Footnote[^1]\n\n[^1]: text"
       },
       "Obsidian Markdown": {
-        "supported": true,
         "syntax": "Footnote[^1]\n\n[^1]: text"
       },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "Footnote[^1]\n\n[^1]: text"
       },
       "Leanpub Markua": {
-        "supported": true,
         "syntax": "Footnote[^1]\n\n[^1]: text"
       },
       "Zettlr (Pandoc)": {
-        "supported": true,
         "syntax": "Footnote[^1]\n\n[^1]: text"
       },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "Footnote[^1]\n\n[^1]: text"
       },
       "Hugo (Goldmark)": {
-        "supported": true,
         "syntax": "Footnote[^1]\n\n[^1]: text"
       },
       "Docusaurus MDX": {
-        "supported": true,
         "syntax": "Footnote[^1]\n\n[^1]: text"
       }
     }
@@ -1090,44 +815,14 @@
     "category": "Syntax",
     "description": "",
     "flavors": {
-      "Standard Markdown": {
-        "supported": false
-      },
       "Markdown Extra": {
-        "supported": true,
         "syntax": "Term\n: Definition"
       },
-      "GitHub Flavored Markdown (GFM)": {
-        "supported": false
-      },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "Term\n: Definition"
       },
       "R Markdown": {
-        "supported": true,
         "syntax": "Term\n: Definition"
-      },
-      "Obsidian Markdown": {
-        "supported": false
-      },
-      "MyST Markdown": {
-        "supported": false
-      },
-      "Leanpub Markua": {
-        "supported": false
-      },
-      "Zettlr (Pandoc)": {
-        "supported": false
-      },
-      "Jupyter Book (MyST)": {
-        "supported": false
-      },
-      "Hugo (Goldmark)": {
-        "supported": false
-      },
-      "Docusaurus MDX": {
-        "supported": false
       }
     }
   },
@@ -1136,47 +831,23 @@
     "category": "Syntax",
     "description": "",
     "flavors": {
-      "Standard Markdown": {
-        "supported": false
-      },
-      "Markdown Extra": {
-        "supported": false
-      },
       "GitHub Flavored Markdown (GFM)": {
-        "supported": true,
         "syntax": "- [ ] Task"
       },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "- [ ] Task"
       },
       "R Markdown": {
-        "supported": true,
         "syntax": "- [ ] Task"
       },
       "Obsidian Markdown": {
-        "supported": true,
         "syntax": "- [ ] Task"
-      },
-      "MyST Markdown": {
-        "supported": false
-      },
-      "Leanpub Markua": {
-        "supported": false
       },
       "Zettlr (Pandoc)": {
-        "supported": true,
         "syntax": "- [ ] Task"
-      },
-      "Jupyter Book (MyST)": {
-        "supported": false
       },
       "Hugo (Goldmark)": {
-        "supported": true,
         "syntax": "- [ ] Task"
-      },
-      "Docusaurus MDX": {
-        "supported": false
       }
     }
   },
@@ -1185,43 +856,11 @@
     "category": "Syntax",
     "description": "",
     "flavors": {
-      "Standard Markdown": {
-        "supported": false
-      },
       "Markdown Extra": {
-        "supported": true,
         "syntax": "*[HTML]: Hyper Text Markup Language"
-      },
-      "GitHub Flavored Markdown (GFM)": {
-        "supported": false
       },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "*[HTML]: Hyper Text Markup Language"
-      },
-      "R Markdown": {
-        "supported": false
-      },
-      "Obsidian Markdown": {
-        "supported": false
-      },
-      "MyST Markdown": {
-        "supported": false
-      },
-      "Leanpub Markua": {
-        "supported": false
-      },
-      "Zettlr (Pandoc)": {
-        "supported": false
-      },
-      "Jupyter Book (MyST)": {
-        "supported": false
-      },
-      "Hugo (Goldmark)": {
-        "supported": false
-      },
-      "Docusaurus MDX": {
-        "supported": false
       }
     }
   },
@@ -1230,50 +869,34 @@
     "category": "Syntax",
     "description": "",
     "flavors": {
-      "Standard Markdown": {
-        "supported": false
-      },
-      "Markdown Extra": {
-        "supported": false
-      },
       "GitHub Flavored Markdown (GFM)": {
-        "supported": true,
         "syntax": "```python\nprint(\"hi\")\n```"
       },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "```python\nprint(\"hi\")\n```"
       },
       "R Markdown": {
-        "supported": true,
         "syntax": "```python\nprint(\"hi\")\n```"
       },
       "Obsidian Markdown": {
-        "supported": true,
         "syntax": "```python\nprint(\"hi\")\n```"
       },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "```python\nprint(\"hi\")\n```"
       },
       "Leanpub Markua": {
-        "supported": true,
         "syntax": "```python\nprint(\"hi\")\n```"
       },
       "Zettlr (Pandoc)": {
-        "supported": true,
         "syntax": "```python\nprint(\"hi\")\n```"
       },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "```python\nprint(\"hi\")\n```"
       },
       "Hugo (Goldmark)": {
-        "supported": true,
         "syntax": "```python\nprint(\"hi\")\n```"
       },
       "Docusaurus MDX": {
-        "supported": true,
         "syntax": "```python\nprint(\"hi\")\n```"
       }
     }
@@ -1283,50 +906,34 @@
     "category": "Syntax",
     "description": "",
     "flavors": {
-      "Standard Markdown": {
-        "supported": false
-      },
-      "Markdown Extra": {
-        "supported": false
-      },
       "GitHub Flavored Markdown (GFM)": {
-        "supported": true,
         "syntax": "```js\nconsole.log(1)\n```"
       },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "```js\nconsole.log(1)\n```"
       },
       "R Markdown": {
-        "supported": true,
         "syntax": "```js\nconsole.log(1)\n```"
       },
       "Obsidian Markdown": {
-        "supported": true,
         "syntax": "```js\nconsole.log(1)\n```"
       },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "```js\nconsole.log(1)\n```"
       },
       "Leanpub Markua": {
-        "supported": true,
         "syntax": "```js\nconsole.log(1)\n```"
       },
       "Zettlr (Pandoc)": {
-        "supported": true,
         "syntax": "```js\nconsole.log(1)\n```"
       },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "```js\nconsole.log(1)\n```"
       },
       "Hugo (Goldmark)": {
-        "supported": true,
         "syntax": "```js\nconsole.log(1)\n```"
       },
       "Docusaurus MDX": {
-        "supported": true,
         "syntax": "```js\nconsole.log(1)\n```"
       }
     }
@@ -1336,45 +943,19 @@
     "category": "Syntax",
     "description": "",
     "flavors": {
-      "Standard Markdown": {
-        "supported": false
-      },
-      "Markdown Extra": {
-        "supported": false
-      },
-      "GitHub Flavored Markdown (GFM)": {
-        "supported": false
-      },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "```python title=\"script.py\"\nprint()\n```"
       },
       "R Markdown": {
-        "supported": true,
         "syntax": "```{python, echo=FALSE}\nprint()\n```"
       },
-      "Obsidian Markdown": {
-        "supported": false
-      },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "```{code-block} python\n---\ncaption: script.py\n---\nprint()\n```"
       },
-      "Leanpub Markua": {
-        "supported": false
-      },
-      "Zettlr (Pandoc)": {
-        "supported": false
-      },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "```{code-cell} python\n---\nfilename: script.py\n---\nprint()\n```"
       },
-      "Hugo (Goldmark)": {
-        "supported": false
-      },
       "Docusaurus MDX": {
-        "supported": true,
         "syntax": "```python title=\"script.py\"\nprint()\n```"
       }
     }
@@ -1384,46 +965,22 @@
     "category": "Syntax",
     "description": "",
     "flavors": {
-      "Standard Markdown": {
-        "supported": false
-      },
-      "Markdown Extra": {
-        "supported": false
-      },
       "GitHub Flavored Markdown (GFM)": {
-        "supported": true,
         "syntax": "```mermaid\ngraph TD;\nA-->B;\n```"
       },
-      "Pandoc Markdown": {
-        "supported": false
-      },
-      "R Markdown": {
-        "supported": false
-      },
       "Obsidian Markdown": {
-        "supported": true,
         "syntax": "```mermaid\ngraph TD;\nA-->B;\n```"
       },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "```mermaid\ngraph TD;\nA-->B;\n```"
       },
-      "Leanpub Markua": {
-        "supported": false
-      },
-      "Zettlr (Pandoc)": {
-        "supported": false
-      },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "```mermaid\ngraph TD;\nA-->B;\n```"
       },
       "Hugo (Goldmark)": {
-        "supported": true,
         "syntax": "```mermaid\ngraph TD;\nA-->B;\n```"
       },
       "Docusaurus MDX": {
-        "supported": true,
         "syntax": "```mermaid\ngraph TD;\nA-->B;\n```"
       }
     }
@@ -1433,43 +990,11 @@
     "category": "Syntax",
     "description": "",
     "flavors": {
-      "Standard Markdown": {
-        "supported": false
-      },
-      "Markdown Extra": {
-        "supported": false
-      },
-      "GitHub Flavored Markdown (GFM)": {
-        "supported": false
-      },
-      "Pandoc Markdown": {
-        "supported": false
-      },
-      "R Markdown": {
-        "supported": false
-      },
-      "Obsidian Markdown": {
-        "supported": false
-      },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "```{plantuml}\n@startuml\nA->B\n@enduml\n```"
-      },
-      "Leanpub Markua": {
-        "supported": false
-      },
-      "Zettlr (Pandoc)": {
-        "supported": false
       },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "```{plantuml}\n@startuml\nA->B\n@enduml\n```"
-      },
-      "Hugo (Goldmark)": {
-        "supported": false
-      },
-      "Docusaurus MDX": {
-        "supported": false
       }
     }
   },
@@ -1478,50 +1003,32 @@
     "category": "Syntax",
     "description": "",
     "flavors": {
-      "Standard Markdown": {
-        "supported": false
-      },
-      "Markdown Extra": {
-        "supported": false
-      },
       "GitHub Flavored Markdown (GFM)": {
-        "supported": true,
         "syntax": "$E=mc^2$"
       },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "$E=mc^2$"
       },
       "R Markdown": {
-        "supported": true,
         "syntax": "$E=mc^2$"
       },
       "Obsidian Markdown": {
-        "supported": true,
         "syntax": "$E=mc^2$"
       },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "$E=mc^2$"
       },
       "Leanpub Markua": {
-        "supported": true,
         "syntax": "$E=mc^2$"
       },
       "Zettlr (Pandoc)": {
-        "supported": true,
         "syntax": "$E=mc^2$"
       },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "$E=mc^2$"
       },
       "Hugo (Goldmark)": {
-        "supported": true,
         "syntax": "$E=mc^2$"
-      },
-      "Docusaurus MDX": {
-        "supported": false
       }
     }
   },
@@ -1530,50 +1037,32 @@
     "category": "Syntax",
     "description": "",
     "flavors": {
-      "Standard Markdown": {
-        "supported": false
-      },
-      "Markdown Extra": {
-        "supported": false
-      },
       "GitHub Flavored Markdown (GFM)": {
-        "supported": true,
         "syntax": "$$\nE=mc^2\n$$"
       },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "$$\nE=mc^2\n$$"
       },
       "R Markdown": {
-        "supported": true,
         "syntax": "$$\nE=mc^2\n$$"
       },
       "Obsidian Markdown": {
-        "supported": true,
         "syntax": "$$\nE=mc^2\n$$"
       },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "$$\nE=mc^2\n$$"
       },
       "Leanpub Markua": {
-        "supported": true,
         "syntax": "$$\nE=mc^2\n$$"
       },
       "Zettlr (Pandoc)": {
-        "supported": true,
         "syntax": "$$\nE=mc^2\n$$"
       },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "$$\nE=mc^2\n$$"
       },
       "Hugo (Goldmark)": {
-        "supported": true,
         "syntax": "$$\nE=mc^2\n$$"
-      },
-      "Docusaurus MDX": {
-        "supported": false
       }
     }
   },
@@ -1582,48 +1071,28 @@
     "category": "Syntax",
     "description": "",
     "flavors": {
-      "Standard Markdown": {
-        "supported": false
-      },
-      "Markdown Extra": {
-        "supported": false
-      },
-      "GitHub Flavored Markdown (GFM)": {
-        "supported": false
-      },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "---\ntitle: Example\n---"
       },
       "R Markdown": {
-        "supported": true,
         "syntax": "---\ntitle: Example\n---"
       },
       "Obsidian Markdown": {
-        "supported": true,
         "syntax": "---\ntitle: Example\n---"
       },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "---\ntitle: Example\n---"
       },
-      "Leanpub Markua": {
-        "supported": false
-      },
       "Zettlr (Pandoc)": {
-        "supported": true,
         "syntax": "---\ntitle: Example\n---"
       },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "---\ntitle: Example\n---"
       },
       "Hugo (Goldmark)": {
-        "supported": true,
         "syntax": "---\ntitle: Example\n---"
       },
       "Docusaurus MDX": {
-        "supported": true,
         "syntax": "---\ntitle: Example\n---"
       }
     }
@@ -1633,45 +1102,17 @@
     "category": "Syntax",
     "description": "",
     "flavors": {
-      "Standard Markdown": {
-        "supported": false
-      },
-      "Markdown Extra": {
-        "supported": false
-      },
-      "GitHub Flavored Markdown (GFM)": {
-        "supported": false
-      },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "According to [@smith2020]."
       },
       "R Markdown": {
-        "supported": true,
         "syntax": "According to [@smith2020]."
       },
-      "Obsidian Markdown": {
-        "supported": false
-      },
-      "MyST Markdown": {
-        "supported": false
-      },
-      "Leanpub Markua": {
-        "supported": false
-      },
       "Zettlr (Pandoc)": {
-        "supported": true,
         "syntax": "According to [@smith2020]."
       },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "{cite}`smith2020`"
-      },
-      "Hugo (Goldmark)": {
-        "supported": false
-      },
-      "Docusaurus MDX": {
-        "supported": false
       }
     }
   },
@@ -1680,44 +1121,14 @@
     "category": "Syntax",
     "description": "",
     "flavors": {
-      "Standard Markdown": {
-        "supported": false
-      },
-      "Markdown Extra": {
-        "supported": false
-      },
-      "GitHub Flavored Markdown (GFM)": {
-        "supported": false
-      },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "See @fig:diagram."
       },
-      "R Markdown": {
-        "supported": false
-      },
-      "Obsidian Markdown": {
-        "supported": false
-      },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "{ref}`section-label`"
       },
-      "Leanpub Markua": {
-        "supported": false
-      },
-      "Zettlr (Pandoc)": {
-        "supported": false
-      },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "{numref}`Figure <fig-diagram>`"
-      },
-      "Hugo (Goldmark)": {
-        "supported": false
-      },
-      "Docusaurus MDX": {
-        "supported": false
       }
     }
   },
@@ -1726,46 +1137,20 @@
     "category": "Syntax",
     "description": "",
     "flavors": {
-      "Standard Markdown": {
-        "supported": false
-      },
-      "Markdown Extra": {
-        "supported": false
-      },
-      "GitHub Flavored Markdown (GFM)": {
-        "supported": false
-      },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "[TOC]"
       },
       "R Markdown": {
-        "supported": true,
         "syntax": "[TOC]"
       },
-      "Obsidian Markdown": {
-        "supported": false
-      },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "```{contents}```"
       },
-      "Leanpub Markua": {
-        "supported": false
-      },
-      "Zettlr (Pandoc)": {
-        "supported": false
-      },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "```{contents}```"
       },
       "Hugo (Goldmark)": {
-        "supported": true,
         "syntax": "{{< toc >}}"
-      },
-      "Docusaurus MDX": {
-        "supported": false
       }
     }
   },
@@ -1774,46 +1159,22 @@
     "category": "Syntax",
     "description": "",
     "flavors": {
-      "Standard Markdown": {
-        "supported": false
-      },
-      "Markdown Extra": {
-        "supported": false
-      },
       "GitHub Flavored Markdown (GFM)": {
-        "supported": true,
         "syntax": "> [!NOTE]\n> A note."
       },
       "Pandoc Markdown": {
-        "supported": true,
         "syntax": "!!! note\n    A note."
       },
-      "R Markdown": {
-        "supported": false
-      },
       "Obsidian Markdown": {
-        "supported": true,
         "syntax": "> [!NOTE]\n> A note."
       },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "```{note}\nA note.\n```"
-      },
-      "Leanpub Markua": {
-        "supported": false
-      },
-      "Zettlr (Pandoc)": {
-        "supported": false
       },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "```{note}\nA note.\n```"
       },
-      "Hugo (Goldmark)": {
-        "supported": false
-      },
       "Docusaurus MDX": {
-        "supported": true,
         "syntax": ":::note\nA note.\n:::"
       }
     }
@@ -1823,46 +1184,22 @@
     "category": "Syntax",
     "description": "",
     "flavors": {
-      "Standard Markdown": {
-        "supported": false
-      },
-      "Markdown Extra": {
-        "supported": false
-      },
       "GitHub Flavored Markdown (GFM)": {
-        "supported": true,
         "syntax": "<details><summary>More</summary>\nHidden\n</details>"
       },
-      "Pandoc Markdown": {
-        "supported": false
-      },
-      "R Markdown": {
-        "supported": false
-      },
       "Obsidian Markdown": {
-        "supported": true,
         "syntax": "> [!NOTE]+ collapsible\n> Hidden"
       },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "```{dropdown}\nHidden\n```"
       },
-      "Leanpub Markua": {
-        "supported": false
-      },
-      "Zettlr (Pandoc)": {
-        "supported": false
-      },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "```{dropdown}\nHidden\n```"
       },
       "Hugo (Goldmark)": {
-        "supported": true,
         "syntax": "<details><summary>More</summary>\nHidden\n</details>"
       },
       "Docusaurus MDX": {
-        "supported": true,
         "syntax": "<details><summary>More</summary>\nHidden\n</details>"
       }
     }
@@ -1872,44 +1209,16 @@
     "category": "Syntax",
     "description": "",
     "flavors": {
-      "Standard Markdown": {
-        "supported": false
-      },
-      "Markdown Extra": {
-        "supported": false
-      },
-      "GitHub Flavored Markdown (GFM)": {
-        "supported": false
-      },
-      "Pandoc Markdown": {
-        "supported": false
-      },
-      "R Markdown": {
-        "supported": false
-      },
       "Obsidian Markdown": {
-        "supported": true,
         "syntax": "![[Other Note]]"
       },
       "MyST Markdown": {
-        "supported": true,
         "syntax": "```{include} other.md```"
-      },
-      "Leanpub Markua": {
-        "supported": false
-      },
-      "Zettlr (Pandoc)": {
-        "supported": false
       },
       "Jupyter Book (MyST)": {
-        "supported": true,
         "syntax": "```{include} other.md```"
       },
-      "Hugo (Goldmark)": {
-        "supported": false
-      },
       "Docusaurus MDX": {
-        "supported": true,
         "syntax": "import Other from './other.md';\n<Other />"
       }
     }
