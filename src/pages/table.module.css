@@ -1,10 +1,12 @@
-.tableWrapper {
+.container {
   overflow-x: auto;
+  height: calc(100vh - var(--ifm-navbar-height));
 }
 
 .matrix {
   width: 100%;
   border-collapse: collapse;
+  overflow: initial;
 }
 
 .matrix th,
@@ -14,34 +16,21 @@
   vertical-align: top;
 }
 
+/* Make header sticky */
 .matrix thead th {
   position: sticky;
-  top: var(--ifm-navbar-height);
-  background-color: var(--ifm-table-background);
-  z-index: 2;
-}
-
-/* Make first column sticky */
-.matrix th:first-child,
-.matrix td:first-child {
-  position: sticky;
-  left: 0;
-  background-color: var(--ifm-table-background);
-  z-index: 2;
-}
-
-/* Make first column sticky */
-.matrix th:first-child,
-.matrix td:first-child {
-  position: sticky;
-  left: 0;
-  background-color: var(--ifm-table-background);
+  top: 0px;
   z-index: 1;
+  background-color: #ebedf0;
 }
 
-/* Ensure intersection of header row and first column is above other cells */
-.matrix thead th:first-child {
-  top: var(--ifm-navbar-height);
+/* Make first column sticky */
+.matrix th:first-child,
+.matrix td:first-child {
+  position: sticky;
+  left: 0;
+  background-color: #ebedf0;
+  z-index: 2;
 }
 
 .matrix pre {
