@@ -31,42 +31,44 @@ export default function TablePage() {
   return (
     <Layout title="Markdown Syntax Matrix">
       <div className={styles.container}>
-        <table className={styles.matrix}>
-          <thead>
-            <tr>
-              <th>Feature</th>
-              {flavors.map((flavor) => (
-                <th key={flavor.key}>{flavor.title}</th>
-              ))}
-            </tr>
-          </thead>
-          <tbody>
-            {features.map((feat) => (
-              <tr key={feat.key}>
-                <td>
-                  <strong>{feat.title}</strong>
-                  <div className={styles.description}>{feat.description}</div>
-                </td>
-                {flavors.map((flavor) => {
-                  const info = supportMap[feat.key]?.[flavor.key];
-                  if (!info) {
-                    return <td key={flavor.key}></td>;
-                  }
-                  return (
-                    <td key={flavor.key}>
-                      {info.syntax && (
-                        <pre>
-                          <code>{info.syntax}</code>
-                        </pre>
-                      )}
-                      {info.notes && <small>{info.notes}</small>}
-                    </td>
-                  );
-                })}
+        <div className={styles.tableWrapper}>
+          <table className={styles.matrix}>
+            <thead>
+              <tr>
+                <th>Feature</th>
+                {flavors.map((flavor) => (
+                  <th key={flavor.key}>{flavor.title}</th>
+                ))}
               </tr>
-            ))}
-          </tbody>
-        </table>
+            </thead>
+            <tbody>
+              {features.map((feat) => (
+                <tr key={feat.key}>
+                  <td>
+                    <strong>{feat.title}</strong>
+                    <div className={styles.description}>{feat.description}</div>
+                  </td>
+                  {flavors.map((flavor) => {
+                    const info = supportMap[feat.key]?.[flavor.key];
+                    if (!info) {
+                      return <td key={flavor.key}></td>;
+                    }
+                    return (
+                      <td key={flavor.key}>
+                        {info.syntax && (
+                          <pre>
+                            <code>{info.syntax}</code>
+                          </pre>
+                        )}
+                        {info.notes && <small>{info.notes}</small>}
+                      </td>
+                    );
+                  })}
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
       </div>
     </Layout>
   );
