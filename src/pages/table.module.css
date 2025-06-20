@@ -27,13 +27,21 @@
   position: sticky;
   left: 0;
   background-color: var(--ifm-table-background);
+  z-index: 2;
+}
+
+/* Make first column sticky */
+.matrix th:first-child,
+.matrix td:first-child {
+  position: sticky;
+  left: 0;
+  background-color: var(--ifm-table-background);
   z-index: 1;
 }
 
 /* Ensure intersection of header row and first column is above other cells */
 .matrix thead th:first-child {
   top: var(--ifm-navbar-height);
-  z-index: 3;
 }
 
 .matrix pre {
