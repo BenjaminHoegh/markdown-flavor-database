@@ -10,7 +10,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'markdown flavor comparison',
+  title: 'Markdown Flavor Database',
   tagline: 'Compare features across Markdown flavors',
   favicon: 'img/favicon.ico',
 
@@ -23,12 +23,12 @@ const config = {
   url: 'https://benjaminhoegh.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/markdown-flavor-comparison',
+  baseUrl: '/markdown-flavor-database',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'benjaminhoegh', // Usually your GitHub org/user name.
-  projectName: 'markdown-flavor-comparison', // Usually your repo name.
+  projectName: 'markdown-flavor-database', // Usually your repo name.
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -68,7 +68,7 @@ const config = {
         },
         items: [
           {
-            href: 'https://github.com/benjaminhoegh/markdown-flavor-comparison',
+            href: 'https://github.com/benjaminhoegh/markdown-flavor-database',
             label: 'GitHub',
             position: 'right',
           },
